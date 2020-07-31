@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.techstack.tech/2020/02/16/sort-algorithms/</loc>
+    
+    <lastmod>2020-07-31T11:32:02.453Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.techstack.tech/galleries/2020/index.html</loc>
     
     <lastmod>2020-07-30T18:01:53.798Z</lastmod>
@@ -47,13 +54,6 @@
     <loc>https://www.techstack.tech/musics/index.html</loc>
     
     <lastmod>2020-07-30T13:45:35.146Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.techstack.tech/2020/02/16/sort-algorithms/</loc>
-    
-    <lastmod>2020-07-30T13:21:52.299Z</lastmod>
     
   </url>
   
