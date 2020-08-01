@@ -1,1 +1,3 @@
 2020/02/16/sort-algorithms/
+2020/02/16/sort-algorithmsaa/
+2020/02/16/sort-algorithmsbb/
