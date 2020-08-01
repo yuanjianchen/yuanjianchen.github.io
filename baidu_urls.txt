@@ -1,1 +1,1 @@
-https://www.techstack.tech/2020/02/16/sort-algorithms/
+2020/02/16/sort-algorithms/
