@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.techstack.tech/"/>
-  <updated>2020-08-02T14:37:18.888Z</updated>
+  <updated>2020-08-02T16:16:36.320Z</updated>
   <id>https://www.techstack.tech/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java基础 - 数据类型和运算符</title>
+    <link href="https://www.techstack.tech/2020/08/02/java-ji-chu-shu-ju-lei-xing-he-yun-suan-fu/"/>
+    <id>https://www.techstack.tech/2020/08/02/java-ji-chu-shu-ju-lei-xing-he-yun-suan-fu/</id>
+    <published>2020-08-02T14:46:42.000Z</published>
+    <updated>2020-08-02T16:16:36.320Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;Java 语言支持的类型分为两类：&lt;code&gt;基本数据类型&lt;/code&gt;（Primitive Type）和&lt;code&gt;引用类型&lt;/code&gt;（Reference Type）。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+      <category term="Java 基础" scheme="https://www.techstack.tech/categories/Java-%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="Java" scheme="https://www.techstack.tech/tags/Java/"/>
+    
+  </entry>
   
   <entry>
     <title>十大经典排序算法整理汇总（附代码）</title>
