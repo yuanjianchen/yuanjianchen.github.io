@@ -2,16 +2,149 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.techstack.tech/2020/08/02/java-ji-chu-shu-ju-lei-xing-he-yun-suan-fu/</loc>
+    <loc>https://www.techstack.tech/2020/08/03/maven-setting-xml/</loc>
     
-    <lastmod>2020-08-02T16:16:36.320Z</lastmod>
+    <lastmod>2020-08-03T15:31:20.265Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.techstack.tech/2020/02/16/sort-algorithms/</loc>
+    <loc>https://www.techstack.tech/2020/08/03/java-ji-chu-shu-zu/</loc>
     
-    <lastmod>2020-08-02T14:37:18.888Z</lastmod>
+    <lastmod>2020-08-03T15:29:08.563Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.techstack.tech/2020/08/02/java-ji-chu-shu-ju-lei-xing-he-yun-suan-fu/</loc>
+    
+    <lastmod>2020-08-03T15:28:24.748Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.techstack.tech/2020/08/03/java-ji-chu-yuan-ma-bu-ma-fan-ma/</loc>
+    
+    <lastmod>2020-08-03T15:23:03.004Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.techstack.tech/2020/08/03/maven-idea-cha-kan-jie-jue-jar-bao-chong-tu/</loc>
+    
+    <lastmod>2020-08-03T15:22:31.458Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.techstack.tech/2020/08/03/she-ji-mo-shi-jian-dan-gong-han-mo-shi/</loc>
+    
+    <lastmod>2020-08-03T15:15:51.240Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.techstack.tech/2020/08/03/she-ji-mo-shi-gong-han-fang-fa-mo-shi/</loc>
+    
+    <lastmod>2020-08-03T15:15:51.237Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.techstack.tech/2020/08/03/she-ji-mo-shi-gai-shu/</loc>
+    
+    <lastmod>2020-08-03T15:15:51.235Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.techstack.tech/2020/08/03/she-ji-mo-shi-chou-xiang-gong-han/</loc>
+    
+    <lastmod>2020-08-03T15:15:51.232Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.techstack.tech/2020/08/03/she-ji-mo-shi-gong-han-san-xiong-di/</loc>
+    
+    <lastmod>2020-08-03T15:15:40.516Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.techstack.tech/2020/08/03/she-ji-mo-shi-dan-li-mo-shi/</loc>
+    
+    <lastmod>2020-08-03T15:15:36.542Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.techstack.tech/2020/08/03/uml-lei-tu/</loc>
+    
+    <lastmod>2020-08-03T15:15:36.537Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.techstack.tech/2020/08/03/maven-cang-ku/</loc>
+    
+    <lastmod>2020-08-03T15:13:54.867Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.techstack.tech/2020/08/03/maven-cha-jian/</loc>
+    
+    <lastmod>2020-08-03T15:13:54.860Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.techstack.tech/2020/08/03/maven-chu-shi/</loc>
+    
+    <lastmod>2020-08-03T15:13:54.852Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.techstack.tech/2020/08/03/maven-gou-jian-sheng-ming-zhou-qi/</loc>
+    
+    <lastmod>2020-08-03T15:13:54.848Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.techstack.tech/2020/08/03/maven-ming-ling/</loc>
+    
+    <lastmod>2020-08-03T15:13:54.842Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.techstack.tech/2020/08/03/maven-xiang-mu-mo-ban/</loc>
+    
+    <lastmod>2020-08-03T15:13:54.835Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.techstack.tech/2020/08/03/maven-yi-lai-guan-xi/</loc>
+    
+    <lastmod>2020-08-03T15:13:54.829Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.techstack.tech/2020/08/03/maven-yue-ding-you-yu-pei-zhi/</loc>
+    
+    <lastmod>2020-08-03T15:13:54.822Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.techstack.tech/2020/08/03/maven-pom/</loc>
+    
+    <lastmod>2020-08-03T15:13:54.812Z</lastmod>
     
   </url>
   

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.techstack.tech/"/>
-  <updated>2020-08-02T16:16:36.320Z</updated>
+  <updated>2020-08-03T15:13:54.812Z</updated>
   <id>https://www.techstack.tech/</id>
   
   <author>
@@ -17,11 +17,469 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Java基础 - 数据类型和运算符</title>
-    <link href="https://www.techstack.tech/2020/08/02/java-ji-chu-shu-ju-lei-xing-he-yun-suan-fu/"/>
-    <id>https://www.techstack.tech/2020/08/02/java-ji-chu-shu-ju-lei-xing-he-yun-suan-fu/</id>
-    <published>2020-08-02T14:46:42.000Z</published>
-    <updated>2020-08-02T16:16:36.320Z</updated>
+    <title>Maven-POM</title>
+    <link href="https://www.techstack.tech/2020/08/03/maven-pom/"/>
+    <id>https://www.techstack.tech/2020/08/03/maven-pom/</id>
+    <published>2020-08-02T19:46:39.000Z</published>
+    <updated>2020-08-03T15:13:54.812Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;POM( Project Object Model，项目对象模型 ) 是 Maven 工程的基本工作单元，是一个XML文件，包含了项目的基本信息，用于描述项目如何构建，声明项目依赖，等等。&lt;/p&gt;
+&lt;p&gt;执行任务或目标时，Maven 会在当前目录中查找 POM。它读取
+        
+      
+    
+    </summary>
+    
+      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
+    
+      <category term="idea" scheme="https://www.techstack.tech/tags/idea/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maven-Idea查看解决jar包冲突</title>
+    <link href="https://www.techstack.tech/2020/08/03/maven-idea-cha-kan-jie-jue-jar-bao-chong-tu/"/>
+    <id>https://www.techstack.tech/2020/08/03/maven-idea-cha-kan-jie-jue-jar-bao-chong-tu/</id>
+    <published>2020-08-02T19:46:35.000Z</published>
+    <updated>2020-08-03T15:22:31.458Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在实际项目开发过程中，会引用很多的依赖，由于依赖本身也有依赖，如果使用了不同的版本，就会很容易遇到jar包冲突问题，因此，解决jar包冲突问题就显得尤为重要。&lt;/p&gt;
+&lt;p&gt;本文主要利用图文讲述IDEA解决办法&lt;br&gt;&lt;img src=&quot;/loading1.gif&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
+    
+      <category term="idea" scheme="https://www.techstack.tech/tags/idea/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maven-插件</title>
+    <link href="https://www.techstack.tech/2020/08/03/maven-cha-jian/"/>
+    <id>https://www.techstack.tech/2020/08/03/maven-cha-jian/</id>
+    <published>2020-08-02T19:41:35.000Z</published>
+    <updated>2020-08-03T15:13:54.860Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Maven本质上是一个插件框架，它的核心并不执行任何具体的构建任务，所有这些任务都交给插件来完成。&lt;br&gt;&lt;img src=&quot;/loading1.gif&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maven-构建生命周期</title>
+    <link href="https://www.techstack.tech/2020/08/03/maven-gou-jian-sheng-ming-zhou-qi/"/>
+    <id>https://www.techstack.tech/2020/08/03/maven-gou-jian-sheng-ming-zhou-qi/</id>
+    <published>2020-08-02T19:31:35.000Z</published>
+    <updated>2020-08-03T15:13:54.848Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Maven
+        
+      
+    
+    </summary>
+    
+      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maven-约定优于配置</title>
+    <link href="https://www.techstack.tech/2020/08/03/maven-yue-ding-you-yu-pei-zhi/"/>
+    <id>https://www.techstack.tech/2020/08/03/maven-yue-ding-you-yu-pei-zhi/</id>
+    <published>2020-08-02T19:31:35.000Z</published>
+    <updated>2020-08-03T15:13:54.822Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;maven的配置文件看似很复杂，其实只需要根据项目的实际背景，设置个别的几个配置项而已。maven有自己的一套默认配置，使用者除非必要，并不需要去修改那些约定内容。这就是所谓的“约定优于配置”。&lt;/p&gt;
+&lt;h2 id=&quot;文件目录&quot;&gt;&lt;a href=&quot;#文件目录&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maven-项目模板</title>
+    <link href="https://www.techstack.tech/2020/08/03/maven-xiang-mu-mo-ban/"/>
+    <id>https://www.techstack.tech/2020/08/03/maven-xiang-mu-mo-ban/</id>
+    <published>2020-08-02T19:31:35.000Z</published>
+    <updated>2020-08-03T15:13:54.835Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Archetype介绍&quot;&gt;&lt;a href=&quot;#Archetype介绍&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maven-setting-xml</title>
+    <link href="https://www.techstack.tech/2020/08/03/maven-setting-xml/"/>
+    <id>https://www.techstack.tech/2020/08/03/maven-setting-xml/</id>
+    <published>2020-08-02T19:26:35.000Z</published>
+    <updated>2020-08-03T15:31:20.265Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;code&gt;setting.xml&lt;/code&gt;配置文件&lt;br&gt;&lt;code&gt;maven&lt;/code&gt;的配置文件&lt;code&gt;settings.xml&lt;/code&gt;存在于两个地方：&lt;/p&gt;
+&lt;p&gt;1.安装的地方：&lt;code&gt;${M2_HOME}/conf/settings.xm
+        
+      
+    
+    </summary>
+    
+      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maven-仓库</title>
+    <link href="https://www.techstack.tech/2020/08/03/maven-cang-ku/"/>
+    <id>https://www.techstack.tech/2020/08/03/maven-cang-ku/</id>
+    <published>2020-08-02T19:26:35.000Z</published>
+    <updated>2020-08-03T15:13:54.867Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在 Maven 的术语中，仓库是一个位置（place）。&lt;br&gt;Maven 仓库是项目中依赖的第三方库，这个库所在的位置叫做仓库。&lt;br&gt;在 Maven 中，任何一个依赖、插件或者项目构建的输出，都可以称之为构件。&lt;br&gt;Maven
+        
+      
+    
+    </summary>
+    
+      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maven-依赖关系</title>
+    <link href="https://www.techstack.tech/2020/08/03/maven-yi-lai-guan-xi/"/>
+    <id>https://www.techstack.tech/2020/08/03/maven-yi-lai-guan-xi/</id>
+    <published>2020-08-02T19:16:35.000Z</published>
+    <updated>2020-08-03T15:13:54.829Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;项目的依赖关系主要分为三种：&lt;strong&gt;依赖&lt;/strong&gt;，&lt;strong&gt;继承&lt;/strong&gt;，&lt;strong&gt;聚合&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&quot;依赖关系&quot;&gt;&lt;a href=&quot;#依赖关系&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maven-初识</title>
+    <link href="https://www.techstack.tech/2020/08/03/maven-chu-shi/"/>
+    <id>https://www.techstack.tech/2020/08/03/maven-chu-shi/</id>
+    <published>2020-08-02T19:15:35.000Z</published>
+    <updated>2020-08-03T15:13:54.852Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Maven简介&quot;&gt;&lt;a href=&quot;#Maven简介&quot; class=&quot;headerlink&quot; title=&quot;Maven简介&quot;&gt;&lt;/a&gt;Maven简介&lt;/h2&gt;&lt;p&gt;Maven在美国口语中是&lt;code&gt;专家、内行&lt;/code&gt;
+        
+      
+    
+    </summary>
+    
+      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maven-命令</title>
+    <link href="https://www.techstack.tech/2020/08/03/maven-ming-ling/"/>
+    <id>https://www.techstack.tech/2020/08/03/maven-ming-ling/</id>
+    <published>2020-08-02T19:11:35.000Z</published>
+    <updated>2020-08-03T15:13:54.842Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;前篇已经讲过，Maven本质上是一个插件框架，并不执行任何具体的构建任务，它把所有这些任务都交给插件来完成。&lt;/p&gt;
+&lt;p&gt;作为开发利器的maven，为我们提供了十分丰富的命令，了解maven的命令行操作并熟练运用常见的maven命令还是十分必要的，即使譬如IDEA等工具给
+        
+      
+    
+    </summary>
+    
+      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式 - 简单工厂模式</title>
+    <link href="https://www.techstack.tech/2020/08/03/she-ji-mo-shi-jian-dan-gong-han-mo-shi/"/>
+    <id>https://www.techstack.tech/2020/08/03/she-ji-mo-shi-jian-dan-gong-han-mo-shi/</id>
+    <published>2020-08-02T18:58:19.000Z</published>
+    <updated>2020-08-03T15:15:51.240Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;简单工厂模式严格来说并不是一个设计模式，反而较像是一种编程习惯。&lt;/p&gt;
+&lt;h2 id=&quot;定义&quot;&gt;&lt;a href=&quot;#定义&quot; class=&quot;headerlink&quot; title=&quot;定义&quot;&gt;&lt;/a&gt;定义&lt;/h2&gt;&lt;p&gt;简单工厂模式(&lt;code&gt;Simple Factory
+        
+      
+    
+    </summary>
+    
+      <category term="软件设计" scheme="https://www.techstack.tech/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="设计模式" scheme="https://www.techstack.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式 - 单例模式</title>
+    <link href="https://www.techstack.tech/2020/08/03/she-ji-mo-shi-dan-li-mo-shi/"/>
+    <id>https://www.techstack.tech/2020/08/03/she-ji-mo-shi-dan-li-mo-shi/</id>
+    <published>2020-08-02T17:20:19.000Z</published>
+    <updated>2020-08-03T15:15:36.542Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在项目开发时有一些对象其实我们只需要一个，比如：线程池、缓存、日志对象等等。这类对象只能有一个实例，如果制造出多个实例，就会导致许多问题产生，例如：程序的行为异常，资源使用过量，或者是不一致的结果。&lt;/p&gt;
+&lt;p&gt;虽然程序员之间的约定以及全局变量也可以办得到，但是单例模式确
+        
+      
+    
+    </summary>
+    
+      <category term="软件设计" scheme="https://www.techstack.tech/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="设计模式" scheme="https://www.techstack.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式 - 工厂方法模式</title>
+    <link href="https://www.techstack.tech/2020/08/03/she-ji-mo-shi-gong-han-fang-fa-mo-shi/"/>
+    <id>https://www.techstack.tech/2020/08/03/she-ji-mo-shi-gong-han-fang-fa-mo-shi/</id>
+    <published>2020-08-02T17:05:19.000Z</published>
+    <updated>2020-08-03T15:15:51.237Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;定义&quot;&gt;&lt;a href=&quot;#定义&quot; class=&quot;headerlink&quot; title=&quot;定义&quot;&gt;&lt;/a&gt;定义&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;工厂方法模式是类的创建模式，又叫虚拟构造器（Virtual
+        
+      
+    
+    </summary>
+    
+      <category term="软件设计" scheme="https://www.techstack.tech/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="设计模式" scheme="https://www.techstack.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式 - 工厂三兄弟</title>
+    <link href="https://www.techstack.tech/2020/08/03/she-ji-mo-shi-gong-han-san-xiong-di/"/>
+    <id>https://www.techstack.tech/2020/08/03/she-ji-mo-shi-gong-han-san-xiong-di/</id>
+    <published>2020-08-02T17:00:19.000Z</published>
+    <updated>2020-08-03T15:15:40.516Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;简单工厂模式、工厂方法模式、抽象工厂模式都属于创建型模式。这三个模式都是为了解决对象的创建而生。这三个工厂模式就像孪生兄弟一样，总是让人傻傻分不清楚。今天就依据个人理解对三个模式总结对比一下。&lt;/p&gt;
+&lt;h2 id=&quot;定义&quot;&gt;&lt;a href=&quot;#定义&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="软件设计" scheme="https://www.techstack.tech/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="设计模式" scheme="https://www.techstack.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式 - 抽象工厂</title>
+    <link href="https://www.techstack.tech/2020/08/03/she-ji-mo-shi-chou-xiang-gong-han/"/>
+    <id>https://www.techstack.tech/2020/08/03/she-ji-mo-shi-chou-xiang-gong-han/</id>
+    <published>2020-08-02T16:59:19.000Z</published>
+    <updated>2020-08-03T15:15:51.232Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在讲解抽象工厂前我们首先需要了解两个概念：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;产品等级结构：产品的等级结构即产品的继承结构&lt;/strong&gt;。如果一个抽象类是电视机，其子类有海尔电视机、海信电视机、创维电视机，则抽象电视机与具体品牌的电视机之间构成了一个产品等
+        
+      
+    
+    </summary>
+    
+      <category term="软件设计" scheme="https://www.techstack.tech/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="设计模式" scheme="https://www.techstack.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>设计模式 - 概述</title>
+    <link href="https://www.techstack.tech/2020/08/03/she-ji-mo-shi-gai-shu/"/>
+    <id>https://www.techstack.tech/2020/08/03/she-ji-mo-shi-gai-shu/</id>
+    <published>2020-08-02T16:58:19.000Z</published>
+    <updated>2020-08-03T15:15:51.235Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在软件工程中，设计模式（design
+        
+      
+    
+    </summary>
+    
+      <category term="软件设计" scheme="https://www.techstack.tech/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+      <category term="设计模式" scheme="https://www.techstack.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>UML 类图</title>
+    <link href="https://www.techstack.tech/2020/08/03/uml-lei-tu/"/>
+    <id>https://www.techstack.tech/2020/08/03/uml-lei-tu/</id>
+    <published>2020-08-02T16:38:09.000Z</published>
+    <updated>2020-08-03T15:15:36.537Z</updated>
     
     <summary type="html">
     
@@ -30,27 +488,27 @@
         
         
           &lt;blockquote&gt;
-&lt;p&gt;Java 语言支持的类型分为两类：&lt;code&gt;基本数据类型&lt;/code&gt;（Primitive Type）和&lt;code&gt;引用类型&lt;/code&gt;（Reference Type）。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2
+&lt;p&gt;UML，统一建模语言「&lt;code&gt;Unified Modeling Language&lt;/code&gt;」，是非专利的第三代&lt;a
         
       
     
     </summary>
     
-      <category term="Java 基础" scheme="https://www.techstack.tech/categories/Java-%E5%9F%BA%E7%A1%80/"/>
+      <category term="软件设计" scheme="https://www.techstack.tech/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
     
     
-      <category term="Java" scheme="https://www.techstack.tech/tags/Java/"/>
+      <category term="uml" scheme="https://www.techstack.tech/tags/uml/"/>
+    
+      <category term="设计模式" scheme="https://www.techstack.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
-    <title>十大经典排序算法整理汇总（附代码）</title>
-    <link href="https://www.techstack.tech/2020/02/16/sort-algorithms/"/>
-    <id>https://www.techstack.tech/2020/02/16/sort-algorithms/</id>
-    <published>2020-02-16T07:09:23.000Z</published>
-    <updated>2020-08-02T14:37:18.888Z</updated>
+    <title>数组</title>
+    <link href="https://www.techstack.tech/2020/08/03/java-ji-chu-shu-zu/"/>
+    <id>https://www.techstack.tech/2020/08/03/java-ji-chu-shu-zu/</id>
+    <published>2020-08-02T16:29:59.000Z</published>
+    <updated>2020-08-03T15:29:08.563Z</updated>
     
     <summary type="html">
     
@@ -58,18 +516,45 @@
       
         
         
-          &lt;h2 id=&quot;前言-测试&quot;&gt;&lt;a href=&quot;#前言-测试&quot; class=&quot;headerlink&quot; title=&quot;前言 测试&quot;&gt;&lt;/a&gt;前言
+          &lt;p&gt;数组是编程语言中最常见的一种数据结构,可以用于储存多个数据,通常可通过数组元素的索引来访问数组元素,包括数组元素赋值和取出数组元素的值.&lt;/p&gt;
+&lt;h2 id=&quot;初识数组&quot;&gt;&lt;a href=&quot;#初识数组&quot; class=&quot;headerlink&quot;
         
       
     
     </summary>
     
-      <category term="编程算法" scheme="https://www.techstack.tech/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
+      <category term="JAVA" scheme="https://www.techstack.tech/categories/JAVA/"/>
     
     
-      <category term="leetcode" scheme="https://www.techstack.tech/tags/leetcode/"/>
+      <category term="Java" scheme="https://www.techstack.tech/tags/Java/"/>
     
-      <category term="算法" scheme="https://www.techstack.tech/tags/%E7%AE%97%E6%B3%95/"/>
+  </entry>
+  
+  <entry>
+    <title>原码、补码、反码</title>
+    <link href="https://www.techstack.tech/2020/08/03/java-ji-chu-yuan-ma-bu-ma-fan-ma/"/>
+    <id>https://www.techstack.tech/2020/08/03/java-ji-chu-yuan-ma-bu-ma-fan-ma/</id>
+    <published>2020-08-02T16:22:17.000Z</published>
+    <updated>2020-08-03T15:23:03.004Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;机器数&quot;&gt;&lt;a href=&quot;#机器数&quot; class=&quot;headerlink&quot; title=&quot;机器数&quot;&gt;&lt;/a&gt;机器数&lt;/h2&gt;&lt;p&gt;所有数字在计算机底层都是以二进制形式存在的.它的表现形式叫做机器数,这个数有正负之分,最高位为符号位.0 表示正数, 1
+        
+      
+    
+    </summary>
+    
+      <category term="JAVA" scheme="https://www.techstack.tech/categories/JAVA/"/>
+    
+    
+      <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
+    
+      <category term="计算机" scheme="https://www.techstack.tech/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
     
   </entry>
   
