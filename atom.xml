@@ -101,6 +101,32 @@
   </entry>
   
   <entry>
+    <title>Maven-构建生命周期</title>
+    <link href="https://www.techstack.tech/2020/08/03/maven-gou-jian-sheng-ming-zhou-qi/"/>
+    <id>https://www.techstack.tech/2020/08/03/maven-gou-jian-sheng-ming-zhou-qi/</id>
+    <published>2020-08-02T19:31:35.000Z</published>
+    <updated>2020-08-03T15:13:54.848Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Maven
+        
+      
+    
+    </summary>
+    
+      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Maven-约定优于配置</title>
     <link href="https://www.techstack.tech/2020/08/03/maven-yue-ding-you-yu-pei-zhi/"/>
     <id>https://www.techstack.tech/2020/08/03/maven-yue-ding-you-yu-pei-zhi/</id>
@@ -115,32 +141,6 @@
         
           &lt;p&gt;maven的配置文件看似很复杂，其实只需要根据项目的实际背景，设置个别的几个配置项而已。maven有自己的一套默认配置，使用者除非必要，并不需要去修改那些约定内容。这就是所谓的“约定优于配置”。&lt;/p&gt;
 &lt;h2 id=&quot;文件目录&quot;&gt;&lt;a href=&quot;#文件目录&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
-    
-    
-      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Maven-构建生命周期</title>
-    <link href="https://www.techstack.tech/2020/08/03/maven-gou-jian-sheng-ming-zhou-qi/"/>
-    <id>https://www.techstack.tech/2020/08/03/maven-gou-jian-sheng-ming-zhou-qi/</id>
-    <published>2020-08-02T19:31:35.000Z</published>
-    <updated>2020-08-03T15:13:54.848Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Maven
         
       
     
@@ -180,6 +180,32 @@
   </entry>
   
   <entry>
+    <title>Maven-仓库</title>
+    <link href="https://www.techstack.tech/2020/08/03/maven-cang-ku/"/>
+    <id>https://www.techstack.tech/2020/08/03/maven-cang-ku/</id>
+    <published>2020-08-02T19:26:35.000Z</published>
+    <updated>2020-08-03T15:13:54.867Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在 Maven 的术语中，仓库是一个位置（place）。&lt;br&gt;Maven 仓库是项目中依赖的第三方库，这个库所在的位置叫做仓库。&lt;br&gt;在 Maven 中，任何一个依赖、插件或者项目构建的输出，都可以称之为构件。&lt;br&gt;Maven
+        
+      
+    
+    </summary>
+    
+      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Maven-setting-xml</title>
     <link href="https://www.techstack.tech/2020/08/03/maven-setting-xml/"/>
     <id>https://www.techstack.tech/2020/08/03/maven-setting-xml/</id>
@@ -194,32 +220,6 @@
         
           &lt;p&gt;&lt;code&gt;setting.xml&lt;/code&gt;配置文件&lt;br&gt;&lt;code&gt;maven&lt;/code&gt;的配置文件&lt;code&gt;settings.xml&lt;/code&gt;存在于两个地方：&lt;/p&gt;
 &lt;p&gt;1.安装的地方：&lt;code&gt;${M2_HOME}/conf/settings.xm
-        
-      
-    
-    </summary>
-    
-      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
-    
-    
-      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Maven-仓库</title>
-    <link href="https://www.techstack.tech/2020/08/03/maven-cang-ku/"/>
-    <id>https://www.techstack.tech/2020/08/03/maven-cang-ku/</id>
-    <published>2020-08-02T19:26:35.000Z</published>
-    <updated>2020-08-03T15:13:54.867Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;在 Maven 的术语中，仓库是一个位置（place）。&lt;br&gt;Maven 仓库是项目中依赖的第三方库，这个库所在的位置叫做仓库。&lt;br&gt;在 Maven 中，任何一个依赖、插件或者项目构建的输出，都可以称之为构件。&lt;br&gt;Maven
         
       
     
@@ -497,9 +497,9 @@
       <category term="软件设计" scheme="https://www.techstack.tech/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
     
     
-      <category term="设计模式" scheme="https://www.techstack.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
       <category term="uml" scheme="https://www.techstack.tech/tags/uml/"/>
+    
+      <category term="设计模式" scheme="https://www.techstack.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   
