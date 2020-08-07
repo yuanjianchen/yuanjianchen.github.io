@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.techstack.tech/"/>
-  <updated>2020-08-03T15:13:54.812Z</updated>
+  <updated>2020-08-07T22:20:20.889Z</updated>
   <id>https://www.techstack.tech/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JVM内存结构.md</title>
+    <link href="https://www.techstack.tech/2020/08/08/jvm-nei-cun-jie-gou/"/>
+    <id>https://www.techstack.tech/2020/08/08/jvm-nei-cun-jie-gou/</id>
+    <published>2020-08-07T21:22:17.000Z</published>
+    <updated>2020-08-07T22:20:20.889Z</updated>
+    
+    <summary type="html">
+    
+      jvm内存结构,jvm 运行时数据区域
+    
+    </summary>
+    
+      <category term="JAVA" scheme="https://www.techstack.tech/categories/JAVA/"/>
+    
+    
+      <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
+    
+      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
+    
+  </entry>
   
   <entry>
     <title>Maven-POM</title>
@@ -101,6 +123,32 @@
   </entry>
   
   <entry>
+    <title>Maven-项目模板</title>
+    <link href="https://www.techstack.tech/2020/08/03/maven-xiang-mu-mo-ban/"/>
+    <id>https://www.techstack.tech/2020/08/03/maven-xiang-mu-mo-ban/</id>
+    <published>2020-08-02T19:31:35.000Z</published>
+    <updated>2020-08-03T15:13:54.835Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Archetype介绍&quot;&gt;&lt;a href=&quot;#Archetype介绍&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Maven-构建生命周期</title>
     <link href="https://www.techstack.tech/2020/08/03/maven-gou-jian-sheng-ming-zhou-qi/"/>
     <id>https://www.techstack.tech/2020/08/03/maven-gou-jian-sheng-ming-zhou-qi/</id>
@@ -154,11 +202,11 @@
   </entry>
   
   <entry>
-    <title>Maven-项目模板</title>
-    <link href="https://www.techstack.tech/2020/08/03/maven-xiang-mu-mo-ban/"/>
-    <id>https://www.techstack.tech/2020/08/03/maven-xiang-mu-mo-ban/</id>
-    <published>2020-08-02T19:31:35.000Z</published>
-    <updated>2020-08-03T15:13:54.835Z</updated>
+    <title>Maven-setting-xml</title>
+    <link href="https://www.techstack.tech/2020/08/03/maven-setting-xml/"/>
+    <id>https://www.techstack.tech/2020/08/03/maven-setting-xml/</id>
+    <published>2020-08-02T19:26:35.000Z</published>
+    <updated>2020-08-07T21:49:53.986Z</updated>
     
     <summary type="html">
     
@@ -166,7 +214,8 @@
       
         
         
-          &lt;h2 id=&quot;Archetype介绍&quot;&gt;&lt;a href=&quot;#Archetype介绍&quot; class=&quot;headerlink&quot;
+          &lt;p&gt;&lt;code&gt;setting.xml&lt;/code&gt;配置文件&lt;br&gt;&lt;code&gt;maven&lt;/code&gt;的配置文件&lt;code&gt;settings.xml&lt;/code&gt;存在于两个地方：&lt;/p&gt;
+&lt;p&gt;1.安装的地方：&lt;code&gt;${M2_HOME}/conf/settings.xm
         
       
     
@@ -193,33 +242,6 @@
         
         
           &lt;p&gt;在 Maven 的术语中，仓库是一个位置（place）。&lt;br&gt;Maven 仓库是项目中依赖的第三方库，这个库所在的位置叫做仓库。&lt;br&gt;在 Maven 中，任何一个依赖、插件或者项目构建的输出，都可以称之为构件。&lt;br&gt;Maven
-        
-      
-    
-    </summary>
-    
-      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
-    
-    
-      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Maven-setting-xml</title>
-    <link href="https://www.techstack.tech/2020/08/03/maven-setting-xml/"/>
-    <id>https://www.techstack.tech/2020/08/03/maven-setting-xml/</id>
-    <published>2020-08-02T19:26:35.000Z</published>
-    <updated>2020-08-03T15:31:20.265Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;code&gt;setting.xml&lt;/code&gt;配置文件&lt;br&gt;&lt;code&gt;maven&lt;/code&gt;的配置文件&lt;code&gt;settings.xml&lt;/code&gt;存在于两个地方：&lt;/p&gt;
-&lt;p&gt;1.安装的地方：&lt;code&gt;${M2_HOME}/conf/settings.xm
         
       
     
@@ -479,7 +501,7 @@
     <link href="https://www.techstack.tech/2020/08/03/uml-lei-tu/"/>
     <id>https://www.techstack.tech/2020/08/03/uml-lei-tu/</id>
     <published>2020-08-02T16:38:09.000Z</published>
-    <updated>2020-08-03T15:15:36.537Z</updated>
+    <updated>2020-08-07T21:49:53.980Z</updated>
     
     <summary type="html">
     
@@ -497,9 +519,9 @@
       <category term="软件设计" scheme="https://www.techstack.tech/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
     
     
-      <category term="uml" scheme="https://www.techstack.tech/tags/uml/"/>
-    
       <category term="设计模式" scheme="https://www.techstack.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+      <category term="uml" scheme="https://www.techstack.tech/tags/uml/"/>
     
   </entry>
   
@@ -527,34 +549,6 @@
     
     
       <category term="Java" scheme="https://www.techstack.tech/tags/Java/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>原码、补码、反码</title>
-    <link href="https://www.techstack.tech/2020/08/03/java-ji-chu-yuan-ma-bu-ma-fan-ma/"/>
-    <id>https://www.techstack.tech/2020/08/03/java-ji-chu-yuan-ma-bu-ma-fan-ma/</id>
-    <published>2020-08-02T16:22:17.000Z</published>
-    <updated>2020-08-03T15:23:03.004Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;机器数&quot;&gt;&lt;a href=&quot;#机器数&quot; class=&quot;headerlink&quot; title=&quot;机器数&quot;&gt;&lt;/a&gt;机器数&lt;/h2&gt;&lt;p&gt;所有数字在计算机底层都是以二进制形式存在的.它的表现形式叫做机器数,这个数有正负之分,最高位为符号位.0 表示正数, 1
-        
-      
-    
-    </summary>
-    
-      <category term="JAVA" scheme="https://www.techstack.tech/categories/JAVA/"/>
-    
-    
-      <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
-    
-      <category term="计算机" scheme="https://www.techstack.tech/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
     
   </entry>
   
