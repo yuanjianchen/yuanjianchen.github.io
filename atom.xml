@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.techstack.tech/"/>
-  <updated>2020-08-07T22:20:20.889Z</updated>
+  <updated>2020-08-07T22:26:43.422Z</updated>
   <id>https://www.techstack.tech/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>JVM内存结构.md</title>
+    <title>JVM内存结构</title>
     <link href="https://www.techstack.tech/2020/08/08/jvm-nei-cun-jie-gou/"/>
     <id>https://www.techstack.tech/2020/08/08/jvm-nei-cun-jie-gou/</id>
     <published>2020-08-07T21:22:17.000Z</published>
-    <updated>2020-08-07T22:20:20.889Z</updated>
+    <updated>2020-08-07T22:26:43.422Z</updated>
     
     <summary type="html">
     
@@ -32,9 +32,9 @@
       <category term="JAVA" scheme="https://www.techstack.tech/categories/JAVA/"/>
     
     
-      <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
-    
       <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
+    
+      <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
     
   </entry>
   
@@ -123,32 +123,6 @@
   </entry>
   
   <entry>
-    <title>Maven-项目模板</title>
-    <link href="https://www.techstack.tech/2020/08/03/maven-xiang-mu-mo-ban/"/>
-    <id>https://www.techstack.tech/2020/08/03/maven-xiang-mu-mo-ban/</id>
-    <published>2020-08-02T19:31:35.000Z</published>
-    <updated>2020-08-03T15:13:54.835Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;Archetype介绍&quot;&gt;&lt;a href=&quot;#Archetype介绍&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
-    
-    
-      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Maven-构建生命周期</title>
     <link href="https://www.techstack.tech/2020/08/03/maven-gou-jian-sheng-ming-zhou-qi/"/>
     <id>https://www.techstack.tech/2020/08/03/maven-gou-jian-sheng-ming-zhou-qi/</id>
@@ -162,6 +136,32 @@
         
         
           &lt;p&gt;Maven
+        
+      
+    
+    </summary>
+    
+      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maven-项目模板</title>
+    <link href="https://www.techstack.tech/2020/08/03/maven-xiang-mu-mo-ban/"/>
+    <id>https://www.techstack.tech/2020/08/03/maven-xiang-mu-mo-ban/</id>
+    <published>2020-08-02T19:31:35.000Z</published>
+    <updated>2020-08-03T15:13:54.835Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;Archetype介绍&quot;&gt;&lt;a href=&quot;#Archetype介绍&quot; class=&quot;headerlink&quot;
         
       
     
@@ -519,9 +519,9 @@
       <category term="软件设计" scheme="https://www.techstack.tech/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
     
     
-      <category term="设计模式" scheme="https://www.techstack.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
       <category term="uml" scheme="https://www.techstack.tech/tags/uml/"/>
+    
+      <category term="设计模式" scheme="https://www.techstack.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   
