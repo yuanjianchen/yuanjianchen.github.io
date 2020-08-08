@@ -2,9 +2,9 @@
 2020/08/03/maven-pom/
 2020/08/03/maven-idea-cha-kan-jie-jue-jar-bao-chong-tu/
 2020/08/03/maven-cha-jian/
-2020/08/03/maven-yue-ding-you-yu-pei-zhi/
 2020/08/03/maven-xiang-mu-mo-ban/
 2020/08/03/maven-gou-jian-sheng-ming-zhou-qi/
+2020/08/03/maven-yue-ding-you-yu-pei-zhi/
 2020/08/03/maven-setting-xml/
 2020/08/03/maven-cang-ku/
 2020/08/03/maven-yi-lai-guan-xi/
@@ -20,3 +20,4 @@
 2020/08/03/java-ji-chu-shu-zu/
 2020/08/03/java-ji-chu-yuan-ma-bu-ma-fan-ma/
 2020/08/02/java-ji-chu-shu-ju-lei-xing-he-yun-suan-fu/
+2020/07/31/zi-jie-ma-wen-jian-jie-gou-xiang-jie/

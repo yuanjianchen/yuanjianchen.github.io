@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.techstack.tech/2020/07/31/zi-jie-ma-wen-jian-jie-gou-xiang-jie/</loc>
+    
+    <lastmod>2020-08-08T18:02:04.528Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.techstack.tech/2020/08/08/jvm-nei-cun-jie-gou/</loc>
     
-    <lastmod>2020-08-07T22:26:43.422Z</lastmod>
+    <lastmod>2020-08-08T17:47:11.797Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.techstack.tech/2020/08/03/java-ji-chu-shu-zu/</loc>
+    
+    <lastmod>2020-08-08T17:44:29.590Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.techstack.tech/2020/08/02/java-ji-chu-shu-ju-lei-xing-he-yun-suan-fu/</loc>
+    
+    <lastmod>2020-08-08T17:44:23.406Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://www.techstack.tech/2020/08/03/maven-setting-xml/</loc>
     
-    <lastmod>2020-08-07T21:49:53.986Z</lastmod>
+    <lastmod>2020-08-08T17:42:12.210Z</lastmod>
     
   </url>
   
@@ -19,20 +40,6 @@
     <loc>https://www.techstack.tech/2020/08/03/uml-lei-tu/</loc>
     
     <lastmod>2020-08-07T21:49:53.980Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.techstack.tech/2020/08/03/java-ji-chu-shu-zu/</loc>
-    
-    <lastmod>2020-08-03T15:29:08.563Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.techstack.tech/2020/08/02/java-ji-chu-shu-ju-lei-xing-he-yun-suan-fu/</loc>
-    
-    <lastmod>2020-08-03T15:28:24.748Z</lastmod>
     
   </url>
   

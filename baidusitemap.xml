@@ -1,20 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.techstack.tech/2020/07/31/zi-jie-ma-wen-jian-jie-gou-xiang-jie/</loc>
+    <lastmod>2020-08-08</lastmod>
+  </url>  <url>
     <loc>https://www.techstack.tech/2020/08/08/jvm-nei-cun-jie-gou/</loc>
-    <lastmod>2020-08-07</lastmod>
+    <lastmod>2020-08-08</lastmod>
+  </url>  <url>
+    <loc>https://www.techstack.tech/2020/08/03/java-ji-chu-shu-zu/</loc>
+    <lastmod>2020-08-08</lastmod>
+  </url>  <url>
+    <loc>https://www.techstack.tech/2020/08/02/java-ji-chu-shu-ju-lei-xing-he-yun-suan-fu/</loc>
+    <lastmod>2020-08-08</lastmod>
   </url>  <url>
     <loc>https://www.techstack.tech/2020/08/03/maven-setting-xml/</loc>
-    <lastmod>2020-08-07</lastmod>
+    <lastmod>2020-08-08</lastmod>
   </url>  <url>
     <loc>https://www.techstack.tech/2020/08/03/uml-lei-tu/</loc>
     <lastmod>2020-08-07</lastmod>
-  </url>  <url>
-    <loc>https://www.techstack.tech/2020/08/03/java-ji-chu-shu-zu/</loc>
-    <lastmod>2020-08-03</lastmod>
-  </url>  <url>
-    <loc>https://www.techstack.tech/2020/08/02/java-ji-chu-shu-ju-lei-xing-he-yun-suan-fu/</loc>
-    <lastmod>2020-08-03</lastmod>
   </url>  <url>
     <loc>https://www.techstack.tech/2020/08/03/java-ji-chu-yuan-ma-bu-ma-fan-ma/</loc>
     <lastmod>2020-08-03</lastmod>

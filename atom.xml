@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.techstack.tech/"/>
-  <updated>2020-08-07T22:26:43.422Z</updated>
+  <updated>2020-08-08T17:47:11.797Z</updated>
   <id>https://www.techstack.tech/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.techstack.tech/2020/08/08/jvm-nei-cun-jie-gou/"/>
     <id>https://www.techstack.tech/2020/08/08/jvm-nei-cun-jie-gou/</id>
     <published>2020-08-07T21:22:17.000Z</published>
-    <updated>2020-08-07T22:26:43.422Z</updated>
+    <updated>2020-08-08T17:47:11.797Z</updated>
     
     <summary type="html">
     
@@ -32,9 +32,9 @@
       <category term="JAVA" scheme="https://www.techstack.tech/categories/JAVA/"/>
     
     
-      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
-    
       <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
+    
+      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
     
   </entry>
   
@@ -123,33 +123,6 @@
   </entry>
   
   <entry>
-    <title>Maven-约定优于配置</title>
-    <link href="https://www.techstack.tech/2020/08/03/maven-yue-ding-you-yu-pei-zhi/"/>
-    <id>https://www.techstack.tech/2020/08/03/maven-yue-ding-you-yu-pei-zhi/</id>
-    <published>2020-08-02T19:31:35.000Z</published>
-    <updated>2020-08-03T15:13:54.822Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;maven的配置文件看似很复杂，其实只需要根据项目的实际背景，设置个别的几个配置项而已。maven有自己的一套默认配置，使用者除非必要，并不需要去修改那些约定内容。这就是所谓的“约定优于配置”。&lt;/p&gt;
-&lt;h2 id=&quot;文件目录&quot;&gt;&lt;a href=&quot;#文件目录&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
-    
-    
-      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Maven-项目模板</title>
     <link href="https://www.techstack.tech/2020/08/03/maven-xiang-mu-mo-ban/"/>
     <id>https://www.techstack.tech/2020/08/03/maven-xiang-mu-mo-ban/</id>
@@ -202,11 +175,38 @@
   </entry>
   
   <entry>
+    <title>Maven-约定优于配置</title>
+    <link href="https://www.techstack.tech/2020/08/03/maven-yue-ding-you-yu-pei-zhi/"/>
+    <id>https://www.techstack.tech/2020/08/03/maven-yue-ding-you-yu-pei-zhi/</id>
+    <published>2020-08-02T19:31:35.000Z</published>
+    <updated>2020-08-03T15:13:54.822Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;maven的配置文件看似很复杂，其实只需要根据项目的实际背景，设置个别的几个配置项而已。maven有自己的一套默认配置，使用者除非必要，并不需要去修改那些约定内容。这就是所谓的“约定优于配置”。&lt;/p&gt;
+&lt;h2 id=&quot;文件目录&quot;&gt;&lt;a href=&quot;#文件目录&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Maven-setting-xml</title>
     <link href="https://www.techstack.tech/2020/08/03/maven-setting-xml/"/>
     <id>https://www.techstack.tech/2020/08/03/maven-setting-xml/</id>
     <published>2020-08-02T19:26:35.000Z</published>
-    <updated>2020-08-07T21:49:53.986Z</updated>
+    <updated>2020-08-08T17:42:12.210Z</updated>
     
     <summary type="html">
     
@@ -530,7 +530,7 @@
     <link href="https://www.techstack.tech/2020/08/03/java-ji-chu-shu-zu/"/>
     <id>https://www.techstack.tech/2020/08/03/java-ji-chu-shu-zu/</id>
     <published>2020-08-02T16:29:59.000Z</published>
-    <updated>2020-08-03T15:29:08.563Z</updated>
+    <updated>2020-08-08T17:44:29.590Z</updated>
     
     <summary type="html">
     
@@ -548,7 +548,7 @@
       <category term="JAVA" scheme="https://www.techstack.tech/categories/JAVA/"/>
     
     
-      <category term="Java" scheme="https://www.techstack.tech/tags/Java/"/>
+      <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
     
   </entry>
   
