@@ -32,9 +32,9 @@
       <category term="JAVA" scheme="https://www.techstack.tech/categories/JAVA/"/>
     
     
-      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
-    
       <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
+    
+      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
     
   </entry>
   
@@ -123,11 +123,11 @@
   </entry>
   
   <entry>
-    <title>Maven-构建生命周期</title>
-    <link href="https://www.techstack.tech/2020/08/03/maven-gou-jian-sheng-ming-zhou-qi/"/>
-    <id>https://www.techstack.tech/2020/08/03/maven-gou-jian-sheng-ming-zhou-qi/</id>
+    <title>Maven-约定优于配置</title>
+    <link href="https://www.techstack.tech/2020/08/03/maven-yue-ding-you-yu-pei-zhi/"/>
+    <id>https://www.techstack.tech/2020/08/03/maven-yue-ding-you-yu-pei-zhi/</id>
     <published>2020-08-02T19:31:35.000Z</published>
-    <updated>2020-08-03T15:13:54.848Z</updated>
+    <updated>2020-08-03T15:13:54.822Z</updated>
     
     <summary type="html">
     
@@ -135,7 +135,8 @@
       
         
         
-          &lt;p&gt;Maven
+          &lt;p&gt;maven的配置文件看似很复杂，其实只需要根据项目的实际背景，设置个别的几个配置项而已。maven有自己的一套默认配置，使用者除非必要，并不需要去修改那些约定内容。这就是所谓的“约定优于配置”。&lt;/p&gt;
+&lt;h2 id=&quot;文件目录&quot;&gt;&lt;a href=&quot;#文件目录&quot;
         
       
     
@@ -175,11 +176,11 @@
   </entry>
   
   <entry>
-    <title>Maven-约定优于配置</title>
-    <link href="https://www.techstack.tech/2020/08/03/maven-yue-ding-you-yu-pei-zhi/"/>
-    <id>https://www.techstack.tech/2020/08/03/maven-yue-ding-you-yu-pei-zhi/</id>
+    <title>Maven-构建生命周期</title>
+    <link href="https://www.techstack.tech/2020/08/03/maven-gou-jian-sheng-ming-zhou-qi/"/>
+    <id>https://www.techstack.tech/2020/08/03/maven-gou-jian-sheng-ming-zhou-qi/</id>
     <published>2020-08-02T19:31:35.000Z</published>
-    <updated>2020-08-03T15:13:54.822Z</updated>
+    <updated>2020-08-03T15:13:54.848Z</updated>
     
     <summary type="html">
     
@@ -187,8 +188,7 @@
       
         
         
-          &lt;p&gt;maven的配置文件看似很复杂，其实只需要根据项目的实际背景，设置个别的几个配置项而已。maven有自己的一套默认配置，使用者除非必要，并不需要去修改那些约定内容。这就是所谓的“约定优于配置”。&lt;/p&gt;
-&lt;h2 id=&quot;文件目录&quot;&gt;&lt;a href=&quot;#文件目录&quot;
+          &lt;p&gt;Maven
         
       
     
