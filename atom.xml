@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.techstack.tech/"/>
-  <updated>2020-08-08T17:47:11.797Z</updated>
+  <updated>2020-08-12T04:38:26.882Z</updated>
   <id>https://www.techstack.tech/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>字节码文件结构详解</title>
+    <link href="https://www.techstack.tech/post/zi-jie-ma-wen-jian-jie-gou-xiang-jie/"/>
+    <id>https://www.techstack.tech/post/zi-jie-ma-wen-jian-jie-gou-xiang-jie/</id>
+    <published>2020-08-09T17:42:35.000Z</published>
+    <updated>2020-08-12T04:38:26.882Z</updated>
+    
+    <summary type="html">
+    
+      Class 类文件的结构,Class文件是一组以 8位字节为基础单位的二进制流，各个数据项目严格按照顺序紧凑地排列在 Class 文件中
+    
+    </summary>
+    
+      <category term="服务端" scheme="https://www.techstack.tech/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+    
+      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
+    
+      <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
     <title>JVM内存结构</title>
-    <link href="https://www.techstack.tech/2020/08/08/jvm-nei-cun-jie-gou/"/>
-    <id>https://www.techstack.tech/2020/08/08/jvm-nei-cun-jie-gou/</id>
+    <link href="https://www.techstack.tech/post/jvm-nei-cun-jie-gou/"/>
+    <id>https://www.techstack.tech/post/jvm-nei-cun-jie-gou/</id>
     <published>2020-08-07T21:22:17.000Z</published>
-    <updated>2020-08-08T17:47:11.797Z</updated>
+    <updated>2020-08-12T04:38:26.897Z</updated>
     
     <summary type="html">
     
@@ -29,21 +51,21 @@
     
     </summary>
     
-      <category term="JAVA" scheme="https://www.techstack.tech/categories/JAVA/"/>
+      <category term="服务端" scheme="https://www.techstack.tech/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
     
-    
-      <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
     
       <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
+    
+      <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
     
   </entry>
   
   <entry>
     <title>Maven-POM</title>
-    <link href="https://www.techstack.tech/2020/08/03/maven-pom/"/>
-    <id>https://www.techstack.tech/2020/08/03/maven-pom/</id>
+    <link href="https://www.techstack.tech/post/maven-pom/"/>
+    <id>https://www.techstack.tech/post/maven-pom/</id>
     <published>2020-08-02T19:46:39.000Z</published>
-    <updated>2020-08-03T15:13:54.812Z</updated>
+    <updated>2020-08-12T04:33:46.665Z</updated>
     
     <summary type="html">
     
@@ -69,10 +91,10 @@
   
   <entry>
     <title>Maven-Idea查看解决jar包冲突</title>
-    <link href="https://www.techstack.tech/2020/08/03/maven-idea-cha-kan-jie-jue-jar-bao-chong-tu/"/>
-    <id>https://www.techstack.tech/2020/08/03/maven-idea-cha-kan-jie-jue-jar-bao-chong-tu/</id>
+    <link href="https://www.techstack.tech/post/maven-idea-cha-kan-jie-jue-jar-bao-chong-tu/"/>
+    <id>https://www.techstack.tech/post/maven-idea-cha-kan-jie-jue-jar-bao-chong-tu/</id>
     <published>2020-08-02T19:46:35.000Z</published>
-    <updated>2020-08-03T15:22:31.458Z</updated>
+    <updated>2020-08-12T04:32:15.148Z</updated>
     
     <summary type="html">
     
@@ -98,10 +120,10 @@
   
   <entry>
     <title>Maven-插件</title>
-    <link href="https://www.techstack.tech/2020/08/03/maven-cha-jian/"/>
-    <id>https://www.techstack.tech/2020/08/03/maven-cha-jian/</id>
+    <link href="https://www.techstack.tech/post/maven-cha-jian/"/>
+    <id>https://www.techstack.tech/post/maven-cha-jian/</id>
     <published>2020-08-02T19:41:35.000Z</published>
-    <updated>2020-08-03T15:13:54.860Z</updated>
+    <updated>2020-08-12T04:33:46.657Z</updated>
     
     <summary type="html">
     
@@ -123,38 +145,11 @@
   </entry>
   
   <entry>
-    <title>Maven-约定优于配置</title>
-    <link href="https://www.techstack.tech/2020/08/03/maven-yue-ding-you-yu-pei-zhi/"/>
-    <id>https://www.techstack.tech/2020/08/03/maven-yue-ding-you-yu-pei-zhi/</id>
-    <published>2020-08-02T19:31:35.000Z</published>
-    <updated>2020-08-03T15:13:54.822Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;maven的配置文件看似很复杂，其实只需要根据项目的实际背景，设置个别的几个配置项而已。maven有自己的一套默认配置，使用者除非必要，并不需要去修改那些约定内容。这就是所谓的“约定优于配置”。&lt;/p&gt;
-&lt;h2 id=&quot;文件目录&quot;&gt;&lt;a href=&quot;#文件目录&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
-    
-    
-      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Maven-构建生命周期</title>
-    <link href="https://www.techstack.tech/2020/08/03/maven-gou-jian-sheng-ming-zhou-qi/"/>
-    <id>https://www.techstack.tech/2020/08/03/maven-gou-jian-sheng-ming-zhou-qi/</id>
+    <link href="https://www.techstack.tech/post/maven-gou-jian-sheng-ming-zhou-qi/"/>
+    <id>https://www.techstack.tech/post/maven-gou-jian-sheng-ming-zhou-qi/</id>
     <published>2020-08-02T19:31:35.000Z</published>
-    <updated>2020-08-03T15:13:54.848Z</updated>
+    <updated>2020-08-12T04:33:46.693Z</updated>
     
     <summary type="html">
     
@@ -177,10 +172,10 @@
   
   <entry>
     <title>Maven-项目模板</title>
-    <link href="https://www.techstack.tech/2020/08/03/maven-xiang-mu-mo-ban/"/>
-    <id>https://www.techstack.tech/2020/08/03/maven-xiang-mu-mo-ban/</id>
+    <link href="https://www.techstack.tech/post/maven-xiang-mu-mo-ban/"/>
+    <id>https://www.techstack.tech/post/maven-xiang-mu-mo-ban/</id>
     <published>2020-08-02T19:31:35.000Z</published>
-    <updated>2020-08-03T15:13:54.835Z</updated>
+    <updated>2020-08-12T04:33:46.661Z</updated>
     
     <summary type="html">
     
@@ -202,11 +197,38 @@
   </entry>
   
   <entry>
+    <title>Maven-约定优于配置</title>
+    <link href="https://www.techstack.tech/post/maven-yue-ding-you-yu-pei-zhi/"/>
+    <id>https://www.techstack.tech/post/maven-yue-ding-you-yu-pei-zhi/</id>
+    <published>2020-08-02T19:31:35.000Z</published>
+    <updated>2020-08-12T04:33:46.709Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;maven的配置文件看似很复杂，其实只需要根据项目的实际背景，设置个别的几个配置项而已。maven有自己的一套默认配置，使用者除非必要，并不需要去修改那些约定内容。这就是所谓的“约定优于配置”。&lt;/p&gt;
+&lt;h2 id=&quot;文件目录&quot;&gt;&lt;a href=&quot;#文件目录&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Maven-setting-xml</title>
-    <link href="https://www.techstack.tech/2020/08/03/maven-setting-xml/"/>
-    <id>https://www.techstack.tech/2020/08/03/maven-setting-xml/</id>
+    <link href="https://www.techstack.tech/post/maven-setting-xml/"/>
+    <id>https://www.techstack.tech/post/maven-setting-xml/</id>
     <published>2020-08-02T19:26:35.000Z</published>
-    <updated>2020-08-08T17:42:12.210Z</updated>
+    <updated>2020-08-12T04:33:46.681Z</updated>
     
     <summary type="html">
     
@@ -230,10 +252,10 @@
   
   <entry>
     <title>Maven-仓库</title>
-    <link href="https://www.techstack.tech/2020/08/03/maven-cang-ku/"/>
-    <id>https://www.techstack.tech/2020/08/03/maven-cang-ku/</id>
+    <link href="https://www.techstack.tech/post/maven-cang-ku/"/>
+    <id>https://www.techstack.tech/post/maven-cang-ku/</id>
     <published>2020-08-02T19:26:35.000Z</published>
-    <updated>2020-08-03T15:13:54.867Z</updated>
+    <updated>2020-08-12T04:33:46.690Z</updated>
     
     <summary type="html">
     
@@ -256,10 +278,10 @@
   
   <entry>
     <title>Maven-依赖关系</title>
-    <link href="https://www.techstack.tech/2020/08/03/maven-yi-lai-guan-xi/"/>
-    <id>https://www.techstack.tech/2020/08/03/maven-yi-lai-guan-xi/</id>
+    <link href="https://www.techstack.tech/post/maven-yi-lai-guan-xi/"/>
+    <id>https://www.techstack.tech/post/maven-yi-lai-guan-xi/</id>
     <published>2020-08-02T19:16:35.000Z</published>
-    <updated>2020-08-03T15:13:54.829Z</updated>
+    <updated>2020-08-12T04:33:46.683Z</updated>
     
     <summary type="html">
     
@@ -283,10 +305,10 @@
   
   <entry>
     <title>Maven-初识</title>
-    <link href="https://www.techstack.tech/2020/08/03/maven-chu-shi/"/>
-    <id>https://www.techstack.tech/2020/08/03/maven-chu-shi/</id>
+    <link href="https://www.techstack.tech/post/maven-chu-shi/"/>
+    <id>https://www.techstack.tech/post/maven-chu-shi/</id>
     <published>2020-08-02T19:15:35.000Z</published>
-    <updated>2020-08-03T15:13:54.852Z</updated>
+    <updated>2020-08-12T04:33:46.707Z</updated>
     
     <summary type="html">
     
@@ -309,10 +331,10 @@
   
   <entry>
     <title>Maven-命令</title>
-    <link href="https://www.techstack.tech/2020/08/03/maven-ming-ling/"/>
-    <id>https://www.techstack.tech/2020/08/03/maven-ming-ling/</id>
+    <link href="https://www.techstack.tech/post/maven-ming-ling/"/>
+    <id>https://www.techstack.tech/post/maven-ming-ling/</id>
     <published>2020-08-02T19:11:35.000Z</published>
-    <updated>2020-08-03T15:13:54.842Z</updated>
+    <updated>2020-08-12T04:33:46.698Z</updated>
     
     <summary type="html">
     
@@ -336,10 +358,10 @@
   
   <entry>
     <title>设计模式 - 简单工厂模式</title>
-    <link href="https://www.techstack.tech/2020/08/03/she-ji-mo-shi-jian-dan-gong-han-mo-shi/"/>
-    <id>https://www.techstack.tech/2020/08/03/she-ji-mo-shi-jian-dan-gong-han-mo-shi/</id>
+    <link href="https://www.techstack.tech/post/she-ji-mo-shi-jian-dan-gong-han-mo-shi/"/>
+    <id>https://www.techstack.tech/post/she-ji-mo-shi-jian-dan-gong-han-mo-shi/</id>
     <published>2020-08-02T18:58:19.000Z</published>
-    <updated>2020-08-03T15:15:51.240Z</updated>
+    <updated>2020-08-12T04:35:58.930Z</updated>
     
     <summary type="html">
     
@@ -363,10 +385,10 @@
   
   <entry>
     <title>设计模式 - 单例模式</title>
-    <link href="https://www.techstack.tech/2020/08/03/she-ji-mo-shi-dan-li-mo-shi/"/>
-    <id>https://www.techstack.tech/2020/08/03/she-ji-mo-shi-dan-li-mo-shi/</id>
+    <link href="https://www.techstack.tech/post/she-ji-mo-shi-dan-li-mo-shi/"/>
+    <id>https://www.techstack.tech/post/she-ji-mo-shi-dan-li-mo-shi/</id>
     <published>2020-08-02T17:20:19.000Z</published>
-    <updated>2020-08-03T15:15:36.542Z</updated>
+    <updated>2020-08-12T04:35:58.912Z</updated>
     
     <summary type="html">
     
@@ -390,10 +412,10 @@
   
   <entry>
     <title>设计模式 - 工厂方法模式</title>
-    <link href="https://www.techstack.tech/2020/08/03/she-ji-mo-shi-gong-han-fang-fa-mo-shi/"/>
-    <id>https://www.techstack.tech/2020/08/03/she-ji-mo-shi-gong-han-fang-fa-mo-shi/</id>
+    <link href="https://www.techstack.tech/post/she-ji-mo-shi-gong-han-fang-fa-mo-shi/"/>
+    <id>https://www.techstack.tech/post/she-ji-mo-shi-gong-han-fang-fa-mo-shi/</id>
     <published>2020-08-02T17:05:19.000Z</published>
-    <updated>2020-08-03T15:15:51.237Z</updated>
+    <updated>2020-08-12T04:35:58.919Z</updated>
     
     <summary type="html">
     
@@ -417,10 +439,10 @@
   
   <entry>
     <title>设计模式 - 工厂三兄弟</title>
-    <link href="https://www.techstack.tech/2020/08/03/she-ji-mo-shi-gong-han-san-xiong-di/"/>
-    <id>https://www.techstack.tech/2020/08/03/she-ji-mo-shi-gong-han-san-xiong-di/</id>
+    <link href="https://www.techstack.tech/post/she-ji-mo-shi-gong-han-san-xiong-di/"/>
+    <id>https://www.techstack.tech/post/she-ji-mo-shi-gong-han-san-xiong-di/</id>
     <published>2020-08-02T17:00:19.000Z</published>
-    <updated>2020-08-03T15:15:40.516Z</updated>
+    <updated>2020-08-12T04:35:58.908Z</updated>
     
     <summary type="html">
     
@@ -444,10 +466,10 @@
   
   <entry>
     <title>设计模式 - 抽象工厂</title>
-    <link href="https://www.techstack.tech/2020/08/03/she-ji-mo-shi-chou-xiang-gong-han/"/>
-    <id>https://www.techstack.tech/2020/08/03/she-ji-mo-shi-chou-xiang-gong-han/</id>
+    <link href="https://www.techstack.tech/post/she-ji-mo-shi-chou-xiang-gong-han/"/>
+    <id>https://www.techstack.tech/post/she-ji-mo-shi-chou-xiang-gong-han/</id>
     <published>2020-08-02T16:59:19.000Z</published>
-    <updated>2020-08-03T15:15:51.232Z</updated>
+    <updated>2020-08-12T04:35:58.916Z</updated>
     
     <summary type="html">
     
@@ -472,10 +494,10 @@
   
   <entry>
     <title>设计模式 - 概述</title>
-    <link href="https://www.techstack.tech/2020/08/03/she-ji-mo-shi-gai-shu/"/>
-    <id>https://www.techstack.tech/2020/08/03/she-ji-mo-shi-gai-shu/</id>
+    <link href="https://www.techstack.tech/post/she-ji-mo-shi-gai-shu/"/>
+    <id>https://www.techstack.tech/post/she-ji-mo-shi-gai-shu/</id>
     <published>2020-08-02T16:58:19.000Z</published>
-    <updated>2020-08-03T15:15:51.235Z</updated>
+    <updated>2020-08-12T04:35:58.923Z</updated>
     
     <summary type="html">
     
@@ -498,10 +520,10 @@
   
   <entry>
     <title>UML 类图</title>
-    <link href="https://www.techstack.tech/2020/08/03/uml-lei-tu/"/>
-    <id>https://www.techstack.tech/2020/08/03/uml-lei-tu/</id>
+    <link href="https://www.techstack.tech/post/uml-lei-tu/"/>
+    <id>https://www.techstack.tech/post/uml-lei-tu/</id>
     <published>2020-08-02T16:38:09.000Z</published>
-    <updated>2020-08-07T21:49:53.980Z</updated>
+    <updated>2020-08-12T04:35:58.926Z</updated>
     
     <summary type="html">
     
@@ -522,33 +544,6 @@
       <category term="uml" scheme="https://www.techstack.tech/tags/uml/"/>
     
       <category term="设计模式" scheme="https://www.techstack.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>数组</title>
-    <link href="https://www.techstack.tech/2020/08/03/java-ji-chu-shu-zu/"/>
-    <id>https://www.techstack.tech/2020/08/03/java-ji-chu-shu-zu/</id>
-    <published>2020-08-02T16:29:59.000Z</published>
-    <updated>2020-08-08T17:44:29.590Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;数组是编程语言中最常见的一种数据结构,可以用于储存多个数据,通常可通过数组元素的索引来访问数组元素,包括数组元素赋值和取出数组元素的值.&lt;/p&gt;
-&lt;h2 id=&quot;初识数组&quot;&gt;&lt;a href=&quot;#初识数组&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="JAVA" scheme="https://www.techstack.tech/categories/JAVA/"/>
-    
-    
-      <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
     
   </entry>
   
