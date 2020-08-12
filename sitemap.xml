@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.techstack.tech/contact/index.html</loc>
+    
+    <lastmod>2020-08-12T08:54:34.218Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.techstack.tech/post/jvm-nei-cun-jie-gou/</loc>
     
     <lastmod>2020-08-12T04:38:26.897Z</lastmod>
@@ -166,13 +173,6 @@
     <loc>https://www.techstack.tech/galleries/%E9%9B%BE%E5%B1%B1%E4%BA%94%E8%A1%8C/index.html</loc>
     
     <lastmod>2020-08-10T17:54:10.237Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.techstack.tech/contact/index.html</loc>
-    
-    <lastmod>2020-08-02T04:49:16.482Z</lastmod>
     
   </url>
   

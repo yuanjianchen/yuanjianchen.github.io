@@ -32,9 +32,9 @@
       <category term="服务端" scheme="https://www.techstack.tech/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
     
     
-      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
-    
       <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
+    
+      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
     
   </entry>
   
@@ -54,9 +54,9 @@
       <category term="服务端" scheme="https://www.techstack.tech/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
     
     
-      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
-    
       <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
+    
+      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
     
   </entry>
   
@@ -145,32 +145,6 @@
   </entry>
   
   <entry>
-    <title>Maven-构建生命周期</title>
-    <link href="https://www.techstack.tech/post/maven-gou-jian-sheng-ming-zhou-qi/"/>
-    <id>https://www.techstack.tech/post/maven-gou-jian-sheng-ming-zhou-qi/</id>
-    <published>2020-08-02T19:31:35.000Z</published>
-    <updated>2020-08-12T04:33:46.693Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Maven
-        
-      
-    
-    </summary>
-    
-      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
-    
-    
-      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Maven-项目模板</title>
     <link href="https://www.techstack.tech/post/maven-xiang-mu-mo-ban/"/>
     <id>https://www.techstack.tech/post/maven-xiang-mu-mo-ban/</id>
@@ -184,6 +158,32 @@
         
         
           &lt;h2 id=&quot;Archetype介绍&quot;&gt;&lt;a href=&quot;#Archetype介绍&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maven-构建生命周期</title>
+    <link href="https://www.techstack.tech/post/maven-gou-jian-sheng-ming-zhou-qi/"/>
+    <id>https://www.techstack.tech/post/maven-gou-jian-sheng-ming-zhou-qi/</id>
+    <published>2020-08-02T19:31:35.000Z</published>
+    <updated>2020-08-12T04:33:46.693Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Maven
         
       
     

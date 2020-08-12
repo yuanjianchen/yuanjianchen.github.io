@@ -3,8 +3,8 @@ post/jvm-nei-cun-jie-gou/
 post/maven-pom/
 post/maven-idea-cha-kan-jie-jue-jar-bao-chong-tu/
 post/maven-cha-jian/
-post/maven-gou-jian-sheng-ming-zhou-qi/
 post/maven-xiang-mu-mo-ban/
+post/maven-gou-jian-sheng-ming-zhou-qi/
 post/maven-yue-ding-you-yu-pei-zhi/
 post/maven-setting-xml/
 post/maven-cang-ku/
