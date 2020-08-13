@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.techstack.tech/"/>
-  <updated>2020-08-12T04:38:26.882Z</updated>
+  <updated>2020-08-13T21:02:06.744Z</updated>
   <id>https://www.techstack.tech/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>类加载过程</title>
+    <link href="https://www.techstack.tech/post/lei-jia-zai-guo-cheng/"/>
+    <id>https://www.techstack.tech/post/lei-jia-zai-guo-cheng/</id>
+    <published>2020-08-13T20:55:17.000Z</published>
+    <updated>2020-08-13T21:02:06.744Z</updated>
+    
+    <summary type="html">
+    
+      类从被加载到虚拟机内容中开始，到卸载出内存为止，它的整个生命周期包括加载、验证、准备、解析、初始化、使用和卸载 7 个阶段
+    
+    </summary>
+    
+      <category term="服务端" scheme="https://www.techstack.tech/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+    
+      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
+    
+      <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
+    
+  </entry>
   
   <entry>
     <title>字节码文件结构详解</title>
@@ -32,9 +54,9 @@
       <category term="服务端" scheme="https://www.techstack.tech/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
     
     
-      <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
-    
       <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
+    
+      <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
     
   </entry>
   
@@ -54,9 +76,9 @@
       <category term="服务端" scheme="https://www.techstack.tech/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
     
     
-      <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
-    
       <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
+    
+      <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
     
   </entry>
   
@@ -145,11 +167,11 @@
   </entry>
   
   <entry>
-    <title>Maven-项目模板</title>
-    <link href="https://www.techstack.tech/post/maven-xiang-mu-mo-ban/"/>
-    <id>https://www.techstack.tech/post/maven-xiang-mu-mo-ban/</id>
+    <title>Maven-约定优于配置</title>
+    <link href="https://www.techstack.tech/post/maven-yue-ding-you-yu-pei-zhi/"/>
+    <id>https://www.techstack.tech/post/maven-yue-ding-you-yu-pei-zhi/</id>
     <published>2020-08-02T19:31:35.000Z</published>
-    <updated>2020-08-12T04:33:46.661Z</updated>
+    <updated>2020-08-12T04:33:46.709Z</updated>
     
     <summary type="html">
     
@@ -157,7 +179,8 @@
       
         
         
-          &lt;h2 id=&quot;Archetype介绍&quot;&gt;&lt;a href=&quot;#Archetype介绍&quot; class=&quot;headerlink&quot;
+          &lt;p&gt;maven的配置文件看似很复杂，其实只需要根据项目的实际背景，设置个别的几个配置项而已。maven有自己的一套默认配置，使用者除非必要，并不需要去修改那些约定内容。这就是所谓的“约定优于配置”。&lt;/p&gt;
+&lt;h2 id=&quot;文件目录&quot;&gt;&lt;a href=&quot;#文件目录&quot;
         
       
     
@@ -197,11 +220,11 @@
   </entry>
   
   <entry>
-    <title>Maven-约定优于配置</title>
-    <link href="https://www.techstack.tech/post/maven-yue-ding-you-yu-pei-zhi/"/>
-    <id>https://www.techstack.tech/post/maven-yue-ding-you-yu-pei-zhi/</id>
+    <title>Maven-项目模板</title>
+    <link href="https://www.techstack.tech/post/maven-xiang-mu-mo-ban/"/>
+    <id>https://www.techstack.tech/post/maven-xiang-mu-mo-ban/</id>
     <published>2020-08-02T19:31:35.000Z</published>
-    <updated>2020-08-12T04:33:46.709Z</updated>
+    <updated>2020-08-12T04:33:46.661Z</updated>
     
     <summary type="html">
     
@@ -209,8 +232,7 @@
       
         
         
-          &lt;p&gt;maven的配置文件看似很复杂，其实只需要根据项目的实际背景，设置个别的几个配置项而已。maven有自己的一套默认配置，使用者除非必要，并不需要去修改那些约定内容。这就是所谓的“约定优于配置”。&lt;/p&gt;
-&lt;h2 id=&quot;文件目录&quot;&gt;&lt;a href=&quot;#文件目录&quot;
+          &lt;h2 id=&quot;Archetype介绍&quot;&gt;&lt;a href=&quot;#Archetype介绍&quot; class=&quot;headerlink&quot;
         
       
     
@@ -513,35 +535,6 @@
     
       <category term="软件设计" scheme="https://www.techstack.tech/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
     
-    
-      <category term="设计模式" scheme="https://www.techstack.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>UML 类图</title>
-    <link href="https://www.techstack.tech/post/uml-lei-tu/"/>
-    <id>https://www.techstack.tech/post/uml-lei-tu/</id>
-    <published>2020-08-02T16:38:09.000Z</published>
-    <updated>2020-08-12T04:35:58.926Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;blockquote&gt;
-&lt;p&gt;UML，统一建模语言「&lt;code&gt;Unified Modeling Language&lt;/code&gt;」，是非专利的第三代&lt;a
-        
-      
-    
-    </summary>
-    
-      <category term="软件设计" scheme="https://www.techstack.tech/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
-    
-    
-      <category term="uml" scheme="https://www.techstack.tech/tags/uml/"/>
     
       <category term="设计模式" scheme="https://www.techstack.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
