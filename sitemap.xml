@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.techstack.tech/galleries/index.html</loc>
+    
+    <lastmod>2020-08-15T16:32:25.336Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.techstack.tech/post/lei-jia-zai-guo-cheng/</loc>
     
     <lastmod>2020-08-13T21:02:06.744Z</lastmod>
@@ -173,41 +180,6 @@
     <loc>https://www.techstack.tech/post/maven-idea-cha-kan-jie-jue-jar-bao-chong-tu/</loc>
     
     <lastmod>2020-08-12T04:32:15.148Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.techstack.tech/galleries/%E9%9B%BE%E5%B1%B1%E4%BA%94%E8%A1%8C/index.html</loc>
-    
-    <lastmod>2020-08-10T17:54:10.237Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.techstack.tech/galleries/2020/index.html</loc>
-    
-    <lastmod>2020-07-30T18:01:53.798Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.techstack.tech/galleries/2019/index.html</loc>
-    
-    <lastmod>2020-07-30T15:36:46.220Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.techstack.tech/galleries/2018/index.html</loc>
-    
-    <lastmod>2020-07-30T15:36:36.187Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.techstack.tech/galleries/index.html</loc>
-    
-    <lastmod>2020-07-30T15:18:18.090Z</lastmod>
     
   </url>
   
