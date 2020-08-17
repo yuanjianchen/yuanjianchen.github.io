@@ -1,3 +1,4 @@
+post/feign-api-void-method/
 post/lei-jia-zai-guo-cheng/
 post/zi-jie-ma-wen-jian-jie-gou-xiang-jie/
 post/jvm-nei-cun-jie-gou/

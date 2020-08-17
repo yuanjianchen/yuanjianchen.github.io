@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.techstack.tech/"/>
-  <updated>2020-08-13T21:02:06.744Z</updated>
+  <updated>2020-08-17T12:19:33.221Z</updated>
   <id>https://www.techstack.tech/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Feign Api返回值为void时获取 Response信息</title>
+    <link href="https://www.techstack.tech/post/feign-api-void-method/"/>
+    <id>https://www.techstack.tech/post/feign-api-void-method/</id>
+    <published>2020-08-17T12:14:12.000Z</published>
+    <updated>2020-08-17T12:19:33.221Z</updated>
+    
+    <summary type="html">
+    
+      Feign Api怎样获取返回值为void方法的Response信息原理解析,代码跟踪。Feign 利用注解来描述接口，简化了 Java HTTP Client 的调用过程，隐藏了实现细节。
+    
+    </summary>
+    
+      <category term="问题方案" scheme="https://www.techstack.tech/categories/%E9%97%AE%E9%A2%98%E6%96%B9%E6%A1%88/"/>
+    
+    
+      <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
+    
+      <category term="springboot" scheme="https://www.techstack.tech/tags/springboot/"/>
+    
+      <category term="feign" scheme="https://www.techstack.tech/tags/feign/"/>
+    
+  </entry>
   
   <entry>
     <title>类加载过程</title>
@@ -32,9 +56,9 @@
       <category term="服务端" scheme="https://www.techstack.tech/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
     
     
-      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
-    
       <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
+    
+      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
     
   </entry>
   
@@ -54,9 +78,9 @@
       <category term="服务端" scheme="https://www.techstack.tech/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
     
     
-      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
-    
       <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
+    
+      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
     
   </entry>
   
@@ -76,9 +100,9 @@
       <category term="服务端" scheme="https://www.techstack.tech/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
     
     
-      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
-    
       <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
+    
+      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
     
   </entry>
   
@@ -502,32 +526,6 @@
           &lt;p&gt;在讲解抽象工厂前我们首先需要了解两个概念：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;产品等级结构：产品的等级结构即产品的继承结构&lt;/strong&gt;。如果一个抽象类是电视机，其子类有海尔电视机、海信电视机、创维电视机，则抽象电视机与具体品牌的电视机之间构成了一个产品等
-        
-      
-    
-    </summary>
-    
-      <category term="软件设计" scheme="https://www.techstack.tech/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
-    
-    
-      <category term="设计模式" scheme="https://www.techstack.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>设计模式 - 概述</title>
-    <link href="https://www.techstack.tech/post/she-ji-mo-shi-gai-shu/"/>
-    <id>https://www.techstack.tech/post/she-ji-mo-shi-gai-shu/</id>
-    <published>2020-08-02T16:58:19.000Z</published>
-    <updated>2020-08-12T04:35:58.923Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;在软件工程中，设计模式（design
         
       
     
