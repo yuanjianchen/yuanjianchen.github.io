@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.techstack.tech/"/>
-  <updated>2020-08-17T12:19:33.221Z</updated>
+  <updated>2020-08-26T06:05:53.306Z</updated>
   <id>https://www.techstack.tech/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>从源码角度理解类加载器</title>
+    <link href="https://www.techstack.tech/post/class-loader-source-code/"/>
+    <id>https://www.techstack.tech/post/class-loader-source-code/</id>
+    <published>2020-08-21T12:55:17.000Z</published>
+    <updated>2020-08-26T06:05:53.306Z</updated>
+    
+    <summary type="html">
+    
+      类加载器分为 BootstrapClassLoader,ExtClassLoader,AppClassLoader以及自定义类加载器,通过双亲委派模型进行工作,保证了类加载的正确运行.
+    
+    </summary>
+    
+      <category term="服务端" scheme="https://www.techstack.tech/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+    
+      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
+    
+      <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
+    
+  </entry>
   
   <entry>
     <title>Feign Api返回值为void时获取 Response信息</title>
@@ -191,11 +213,11 @@
   </entry>
   
   <entry>
-    <title>Maven-约定优于配置</title>
-    <link href="https://www.techstack.tech/post/maven-yue-ding-you-yu-pei-zhi/"/>
-    <id>https://www.techstack.tech/post/maven-yue-ding-you-yu-pei-zhi/</id>
+    <title>Maven-项目模板</title>
+    <link href="https://www.techstack.tech/post/maven-xiang-mu-mo-ban/"/>
+    <id>https://www.techstack.tech/post/maven-xiang-mu-mo-ban/</id>
     <published>2020-08-02T19:31:35.000Z</published>
-    <updated>2020-08-12T04:33:46.709Z</updated>
+    <updated>2020-08-12T04:33:46.661Z</updated>
     
     <summary type="html">
     
@@ -203,8 +225,7 @@
       
         
         
-          &lt;p&gt;maven的配置文件看似很复杂，其实只需要根据项目的实际背景，设置个别的几个配置项而已。maven有自己的一套默认配置，使用者除非必要，并不需要去修改那些约定内容。这就是所谓的“约定优于配置”。&lt;/p&gt;
-&lt;h2 id=&quot;文件目录&quot;&gt;&lt;a href=&quot;#文件目录&quot;
+          &lt;h2 id=&quot;Archetype介绍&quot;&gt;&lt;a href=&quot;#Archetype介绍&quot; class=&quot;headerlink&quot;
         
       
     
@@ -244,11 +265,11 @@
   </entry>
   
   <entry>
-    <title>Maven-项目模板</title>
-    <link href="https://www.techstack.tech/post/maven-xiang-mu-mo-ban/"/>
-    <id>https://www.techstack.tech/post/maven-xiang-mu-mo-ban/</id>
+    <title>Maven-约定优于配置</title>
+    <link href="https://www.techstack.tech/post/maven-yue-ding-you-yu-pei-zhi/"/>
+    <id>https://www.techstack.tech/post/maven-yue-ding-you-yu-pei-zhi/</id>
     <published>2020-08-02T19:31:35.000Z</published>
-    <updated>2020-08-12T04:33:46.661Z</updated>
+    <updated>2020-08-12T04:33:46.709Z</updated>
     
     <summary type="html">
     
@@ -256,7 +277,8 @@
       
         
         
-          &lt;h2 id=&quot;Archetype介绍&quot;&gt;&lt;a href=&quot;#Archetype介绍&quot; class=&quot;headerlink&quot;
+          &lt;p&gt;maven的配置文件看似很复杂，其实只需要根据项目的实际背景，设置个别的几个配置项而已。maven有自己的一套默认配置，使用者除非必要，并不需要去修改那些约定内容。这就是所谓的“约定优于配置”。&lt;/p&gt;
+&lt;h2 id=&quot;文件目录&quot;&gt;&lt;a href=&quot;#文件目录&quot;
         
       
     
@@ -498,34 +520,6 @@
         
           &lt;p&gt;简单工厂模式、工厂方法模式、抽象工厂模式都属于创建型模式。这三个模式都是为了解决对象的创建而生。这三个工厂模式就像孪生兄弟一样，总是让人傻傻分不清楚。今天就依据个人理解对三个模式总结对比一下。&lt;/p&gt;
 &lt;h2 id=&quot;定义&quot;&gt;&lt;a href=&quot;#定义&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="软件设计" scheme="https://www.techstack.tech/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
-    
-    
-      <category term="设计模式" scheme="https://www.techstack.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>设计模式 - 抽象工厂</title>
-    <link href="https://www.techstack.tech/post/she-ji-mo-shi-chou-xiang-gong-han/"/>
-    <id>https://www.techstack.tech/post/she-ji-mo-shi-chou-xiang-gong-han/</id>
-    <published>2020-08-02T16:59:19.000Z</published>
-    <updated>2020-08-12T04:35:58.916Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;在讲解抽象工厂前我们首先需要了解两个概念：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;产品等级结构：产品的等级结构即产品的继承结构&lt;/strong&gt;。如果一个抽象类是电视机，其子类有海尔电视机、海信电视机、创维电视机，则抽象电视机与具体品牌的电视机之间构成了一个产品等
         
       
     

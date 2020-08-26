@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.techstack.tech/post/class-loader-source-code/</loc>
+    
+    <lastmod>2020-08-26T06:05:53.306Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.techstack.tech/post/feign-api-void-method/</loc>
     
     <lastmod>2020-08-17T12:19:33.221Z</lastmod>
