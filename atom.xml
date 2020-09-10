@@ -32,9 +32,9 @@
       <category term="服务端" scheme="https://www.techstack.tech/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
     
     
-      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
-    
       <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
+    
+      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
     
   </entry>
   
@@ -54,9 +54,9 @@
       <category term="服务端" scheme="https://www.techstack.tech/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
     
     
-      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
-    
       <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
+    
+      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
     
   </entry>
   
@@ -100,9 +100,9 @@
       <category term="服务端" scheme="https://www.techstack.tech/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
     
     
-      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
-    
       <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
+    
+      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
     
   </entry>
   
@@ -122,9 +122,9 @@
       <category term="服务端" scheme="https://www.techstack.tech/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
     
     
-      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
-    
       <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
+    
+      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
     
   </entry>
   
@@ -144,9 +144,9 @@
       <category term="服务端" scheme="https://www.techstack.tech/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
     
     
-      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
-    
       <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
+    
+      <category term="jvm" scheme="https://www.techstack.tech/tags/jvm/"/>
     
   </entry>
   
@@ -318,7 +318,7 @@
     <link href="https://www.techstack.tech/post/Maven-setting-xml/"/>
     <id>https://www.techstack.tech/post/Maven-setting-xml/</id>
     <published>2020-08-02T19:26:35.000Z</published>
-    <updated>2020-09-10T03:09:59.927Z</updated>
+    <updated>2020-09-10T04:21:39.135Z</updated>
     
     <summary type="html">
     
@@ -371,7 +371,7 @@
     <link href="https://www.techstack.tech/post/Maven-%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB/"/>
     <id>https://www.techstack.tech/post/Maven-依赖关系/</id>
     <published>2020-08-02T19:16:35.000Z</published>
-    <updated>2020-09-10T03:09:59.928Z</updated>
+    <updated>2020-09-10T04:21:28.300Z</updated>
     
     <summary type="html">
     
