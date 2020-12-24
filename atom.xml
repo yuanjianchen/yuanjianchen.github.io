@@ -235,6 +235,32 @@
   </entry>
   
   <entry>
+    <title>Maven-构建生命周期</title>
+    <link href="https://www.techstack.tech/post/Maven-%E6%9E%84%E5%BB%BA%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/"/>
+    <id>https://www.techstack.tech/post/Maven-构建生命周期/</id>
+    <published>2020-08-02T19:31:35.000Z</published>
+    <updated>2020-09-10T03:09:59.930Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Maven
+        
+      
+    
+    </summary>
+    
+      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Maven-约定优于配置</title>
     <link href="https://www.techstack.tech/post/Maven-%E7%BA%A6%E5%AE%9A%E4%BC%98%E4%BA%8E%E9%85%8D%E7%BD%AE/"/>
     <id>https://www.techstack.tech/post/Maven-约定优于配置/</id>
@@ -249,32 +275,6 @@
         
           &lt;p&gt;maven的配置文件看似很复杂，其实只需要根据项目的实际背景，设置个别的几个配置项而已。maven有自己的一套默认配置，使用者除非必要，并不需要去修改那些约定内容。这就是所谓的“约定优于配置”。&lt;/p&gt;
 &lt;h2 id=&quot;文件目录&quot;&gt;&lt;a href=&quot;#文件目录&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
-    
-    
-      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Maven-构建生命周期</title>
-    <link href="https://www.techstack.tech/post/Maven-%E6%9E%84%E5%BB%BA%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/"/>
-    <id>https://www.techstack.tech/post/Maven-构建生命周期/</id>
-    <published>2020-08-02T19:31:35.000Z</published>
-    <updated>2020-09-10T03:09:59.930Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Maven
         
       
     
