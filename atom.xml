@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.techstack.tech/"/>
-  <updated>2021-01-02T00:34:54.301Z</updated>
+  <updated>2021-01-02T01:39:47.053Z</updated>
   <id>https://www.techstack.tech/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.techstack.tech/post/Java%E5%9F%BA%E7%A1%80-ArrayList/"/>
     <id>https://www.techstack.tech/post/Java基础-ArrayList/</id>
     <published>2021-01-01T13:03:59.000Z</published>
-    <updated>2021-01-02T00:34:54.301Z</updated>
+    <updated>2021-01-02T01:39:47.053Z</updated>
     
     <summary type="html">
     
@@ -368,32 +368,6 @@
   </entry>
   
   <entry>
-    <title>Maven-仓库</title>
-    <link href="https://www.techstack.tech/post/Maven-%E4%BB%93%E5%BA%93/"/>
-    <id>https://www.techstack.tech/post/Maven-仓库/</id>
-    <published>2020-08-02T19:26:35.000Z</published>
-    <updated>2020-09-10T03:09:59.928Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;在 Maven 的术语中，仓库是一个位置（place）。&lt;br&gt;Maven 仓库是项目中依赖的第三方库，这个库所在的位置叫做仓库。&lt;br&gt;在 Maven 中，任何一个依赖、插件或者项目构建的输出，都可以称之为构件。&lt;br&gt;Maven
-        
-      
-    
-    </summary>
-    
-      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
-    
-    
-      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Maven-setting-xml</title>
     <link href="https://www.techstack.tech/post/Maven-setting-xml/"/>
     <id>https://www.techstack.tech/post/Maven-setting-xml/</id>
@@ -408,6 +382,32 @@
         
           &lt;p&gt;&lt;code&gt;setting.xml&lt;/code&gt;配置文件&lt;br&gt;&lt;code&gt;maven&lt;/code&gt;的配置文件&lt;code&gt;settings.xml&lt;/code&gt;存在于两个地方：&lt;/p&gt;
 &lt;p&gt;1.安装的地方：&lt;code&gt;${M2_HOME}/conf/settings.xm
+        
+      
+    
+    </summary>
+    
+      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maven-仓库</title>
+    <link href="https://www.techstack.tech/post/Maven-%E4%BB%93%E5%BA%93/"/>
+    <id>https://www.techstack.tech/post/Maven-仓库/</id>
+    <published>2020-08-02T19:26:35.000Z</published>
+    <updated>2020-09-10T03:09:59.928Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在 Maven 的术语中，仓库是一个位置（place）。&lt;br&gt;Maven 仓库是项目中依赖的第三方库，这个库所在的位置叫做仓库。&lt;br&gt;在 Maven 中，任何一个依赖、插件或者项目构建的输出，都可以称之为构件。&lt;br&gt;Maven
         
       
     
