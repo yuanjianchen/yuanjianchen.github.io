@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.techstack.tech/"/>
-  <updated>2020-09-10T03:09:59.921Z</updated>
+  <updated>2021-01-02T00:34:54.301Z</updated>
   <id>https://www.techstack.tech/</id>
   
   <author>
@@ -15,6 +15,60 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ArrayList源码分析</title>
+    <link href="https://www.techstack.tech/post/Java%E5%9F%BA%E7%A1%80-ArrayList/"/>
+    <id>https://www.techstack.tech/post/Java基础-ArrayList/</id>
+    <published>2021-01-01T13:03:59.000Z</published>
+    <updated>2021-01-02T00:34:54.301Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;ArrayList 是 Java 集合框架中 List 接口的一个实现类。底层是数组，相当于动态数组。与 Java
+        
+      
+    
+    </summary>
+    
+      <category term="服务端" scheme="https://www.techstack.tech/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+    
+      <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java 集合</title>
+    <link href="https://www.techstack.tech/post/Java%E5%9F%BA%E7%A1%80-%E9%9B%86%E5%90%88/"/>
+    <id>https://www.techstack.tech/post/Java基础-集合/</id>
+    <published>2020-12-30T16:29:59.000Z</published>
+    <updated>2021-01-02T00:21:40.622Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;集合主要存放于 &lt;code&gt;java.util&lt;/code&gt; 包中，主要有 3 种：Set(集)、List（列表包含 Queue）、Map（映射）。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Collection：Collection
+        
+      
+    
+    </summary>
+    
+      <category term="服务端" scheme="https://www.techstack.tech/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+    
+      <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
+    
+  </entry>
   
   <entry>
     <title>对象的创建与死亡以及内存分配、回收机制</title>
@@ -133,7 +187,7 @@
     <link href="https://www.techstack.tech/post/JVM%E5%86%85%E5%AD%98%E7%BB%93%E6%9E%84/"/>
     <id>https://www.techstack.tech/post/JVM内存结构/</id>
     <published>2020-08-07T21:22:17.000Z</published>
-    <updated>2020-09-10T03:09:59.919Z</updated>
+    <updated>2021-01-02T00:19:30.968Z</updated>
     
     <summary type="html">
     
@@ -314,6 +368,32 @@
   </entry>
   
   <entry>
+    <title>Maven-仓库</title>
+    <link href="https://www.techstack.tech/post/Maven-%E4%BB%93%E5%BA%93/"/>
+    <id>https://www.techstack.tech/post/Maven-仓库/</id>
+    <published>2020-08-02T19:26:35.000Z</published>
+    <updated>2020-09-10T03:09:59.928Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在 Maven 的术语中，仓库是一个位置（place）。&lt;br&gt;Maven 仓库是项目中依赖的第三方库，这个库所在的位置叫做仓库。&lt;br&gt;在 Maven 中，任何一个依赖、插件或者项目构建的输出，都可以称之为构件。&lt;br&gt;Maven
+        
+      
+    
+    </summary>
+    
+      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Maven-setting-xml</title>
     <link href="https://www.techstack.tech/post/Maven-setting-xml/"/>
     <id>https://www.techstack.tech/post/Maven-setting-xml/</id>
@@ -328,32 +408,6 @@
         
           &lt;p&gt;&lt;code&gt;setting.xml&lt;/code&gt;配置文件&lt;br&gt;&lt;code&gt;maven&lt;/code&gt;的配置文件&lt;code&gt;settings.xml&lt;/code&gt;存在于两个地方：&lt;/p&gt;
 &lt;p&gt;1.安装的地方：&lt;code&gt;${M2_HOME}/conf/settings.xm
-        
-      
-    
-    </summary>
-    
-      <category term="构建工具" scheme="https://www.techstack.tech/categories/%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/"/>
-    
-    
-      <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Maven-仓库</title>
-    <link href="https://www.techstack.tech/post/Maven-%E4%BB%93%E5%BA%93/"/>
-    <id>https://www.techstack.tech/post/Maven-仓库/</id>
-    <published>2020-08-02T19:26:35.000Z</published>
-    <updated>2020-09-10T03:09:59.928Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;在 Maven 的术语中，仓库是一个位置（place）。&lt;br&gt;Maven 仓库是项目中依赖的第三方库，这个库所在的位置叫做仓库。&lt;br&gt;在 Maven 中，任何一个依赖、插件或者项目构建的输出，都可以称之为构件。&lt;br&gt;Maven
         
       
     
@@ -461,60 +515,6 @@
         
           &lt;p&gt;简单工厂模式严格来说并不是一个设计模式，反而较像是一种编程习惯。&lt;/p&gt;
 &lt;h2 id=&quot;定义&quot;&gt;&lt;a href=&quot;#定义&quot; class=&quot;headerlink&quot; title=&quot;定义&quot;&gt;&lt;/a&gt;定义&lt;/h2&gt;&lt;p&gt;简单工厂模式(&lt;code&gt;Simple Factory
-        
-      
-    
-    </summary>
-    
-      <category term="软件设计" scheme="https://www.techstack.tech/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
-    
-    
-      <category term="设计模式" scheme="https://www.techstack.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>设计模式 - 单例模式</title>
-    <link href="https://www.techstack.tech/post/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/"/>
-    <id>https://www.techstack.tech/post/设计模式-单例模式/</id>
-    <published>2020-08-02T17:20:19.000Z</published>
-    <updated>2020-09-10T03:09:59.931Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;在项目开发时有一些对象其实我们只需要一个，比如：线程池、缓存、日志对象等等。这类对象只能有一个实例，如果制造出多个实例，就会导致许多问题产生，例如：程序的行为异常，资源使用过量，或者是不一致的结果。&lt;/p&gt;
-&lt;p&gt;虽然程序员之间的约定以及全局变量也可以办得到，但是单例模式确
-        
-      
-    
-    </summary>
-    
-      <category term="软件设计" scheme="https://www.techstack.tech/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
-    
-    
-      <category term="设计模式" scheme="https://www.techstack.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>设计模式 - 工厂方法模式</title>
-    <link href="https://www.techstack.tech/post/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F/"/>
-    <id>https://www.techstack.tech/post/设计模式-工厂方法模式/</id>
-    <published>2020-08-02T17:05:19.000Z</published>
-    <updated>2020-09-10T03:09:59.932Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h2 id=&quot;定义&quot;&gt;&lt;a href=&quot;#定义&quot; class=&quot;headerlink&quot; title=&quot;定义&quot;&gt;&lt;/a&gt;定义&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;工厂方法模式是类的创建模式，又叫虚拟构造器（Virtual
         
       
     
