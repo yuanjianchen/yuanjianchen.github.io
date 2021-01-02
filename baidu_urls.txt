@@ -1,3 +1,4 @@
+post/Java基础-LinkedList/
 post/Java基础-ArrayList/
 post/Java基础-集合/
 post/对象的创建与死亡以及内存分配、回收机制/

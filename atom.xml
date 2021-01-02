@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.techstack.tech/"/>
-  <updated>2021-01-02T01:42:35.872Z</updated>
+  <updated>2021-01-02T12:57:20.288Z</updated>
   <id>https://www.techstack.tech/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LinkedList源码分析</title>
+    <link href="https://www.techstack.tech/post/Java%E5%9F%BA%E7%A1%80-LinkedList/"/>
+    <id>https://www.techstack.tech/post/Java基础-LinkedList/</id>
+    <published>2021-01-02T12:47:59.000Z</published>
+    <updated>2021-01-02T12:57:20.288Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;概述&quot;&gt;&lt;a href=&quot;#概述&quot; class=&quot;headerlink&quot; title=&quot;概述&quot;&gt;&lt;/a&gt;概述&lt;/h2&gt;&lt;p&gt;LinkedList 是 Java 集合框架中一个重要的实现，其底层采用的双向链表结构。和 ArrayList 一样，LinkedList
+        
+      
+    
+    </summary>
+    
+      <category term="服务端" scheme="https://www.techstack.tech/categories/%E6%9C%8D%E5%8A%A1%E7%AB%AF/"/>
+    
+    
+      <category term="java" scheme="https://www.techstack.tech/tags/java/"/>
+    
+  </entry>
   
   <entry>
     <title>ArrayList源码分析</title>
@@ -497,33 +523,6 @@
     
     
       <category term="maven" scheme="https://www.techstack.tech/tags/maven/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>设计模式 - 简单工厂模式</title>
-    <link href="https://www.techstack.tech/post/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F/"/>
-    <id>https://www.techstack.tech/post/设计模式-简单工厂模式/</id>
-    <published>2020-08-02T18:58:19.000Z</published>
-    <updated>2020-09-10T03:09:59.933Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;简单工厂模式严格来说并不是一个设计模式，反而较像是一种编程习惯。&lt;/p&gt;
-&lt;h2 id=&quot;定义&quot;&gt;&lt;a href=&quot;#定义&quot; class=&quot;headerlink&quot; title=&quot;定义&quot;&gt;&lt;/a&gt;定义&lt;/h2&gt;&lt;p&gt;简单工厂模式(&lt;code&gt;Simple Factory
-        
-      
-    
-    </summary>
-    
-      <category term="软件设计" scheme="https://www.techstack.tech/categories/%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1/"/>
-    
-    
-      <category term="设计模式" scheme="https://www.techstack.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   
