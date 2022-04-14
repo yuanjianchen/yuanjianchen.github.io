@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>陈建源的博客</title>
+  
+  <subtitle>Hello World</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.techstack.tech/"/>
+  <updated>2022-04-14T17:21:53.449Z</updated>
+  <id>https://www.techstack.tech/</id>
+  
+  <author>
+    <name>陈建源</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>并发理论基础：Java 内存模型JMM</title>
+    <link href="https://www.techstack.tech/post/164995635/"/>
+    <id>https://www.techstack.tech/post/164995635/</id>
+    <published>2022-04-14T17:12:29.000Z</published>
+    <updated>2022-04-14T17:21:53.449Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="并发编程" scheme="https://www.techstack.tech/m/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="Java" scheme="https://www.techstack.tech/tags/Java/"/>
+    
+      <category term="并发" scheme="https://www.techstack.tech/tags/%E5%B9%B6%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>并发理论基础：指令重排序问题</title>
+    <link href="https://www.techstack.tech/post/164942290/"/>
+    <id>https://www.techstack.tech/post/164942290/</id>
+    <published>2022-04-08T13:01:28.000Z</published>
+    <updated>2022-04-14T17:10:35.797Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;什么是指令的重排序&quot;&gt;什么是指令的重排序&lt;a class=&quot;&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="并发编程" scheme="https://www.techstack.tech/m/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="Java" scheme="https://www.techstack.tech/tags/Java/"/>
+    
+      <category term="并发" scheme="https://www.techstack.tech/tags/%E5%B9%B6%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>并发理论基础：缓存可见性、MESI、内存屏障</title>
+    <link href="https://www.techstack.tech/post/164926797/"/>
+    <id>https://www.techstack.tech/post/164926797/</id>
+    <published>2022-04-06T17:59:31.000Z</published>
+    <updated>2022-04-14T17:26:53.259Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;从“&lt;strong&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="并发编程" scheme="https://www.techstack.tech/m/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="Java" scheme="https://www.techstack.tech/tags/Java/"/>
+    
+      <category term="并发" scheme="https://www.techstack.tech/tags/%E5%B9%B6%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>并发理论基础：原子性问题</title>
+    <link href="https://www.techstack.tech/post/164913260/"/>
+    <id>https://www.techstack.tech/post/164913260/</id>
+    <published>2022-04-05T03:25:31.000Z</published>
+    <updated>2022-04-09T11:05:15.871Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;我们再回顾一下，原子性问题的根源是CPU切换线程执行指令所导致的，当前一个对共享变量的操作没有完成之前，CPU又切换到另外一个线程来操作对应的共享变量，那么最终产生的结果就可能出现问题。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;比如如果现在有两个线程都在执行number=number
+        
+      
+    
+    </summary>
+    
+      <category term="并发编程" scheme="https://www.techstack.tech/m/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="Java" scheme="https://www.techstack.tech/tags/Java/"/>
+    
+      <category term="并发" scheme="https://www.techstack.tech/tags/%E5%B9%B6%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>并发理论基础：并发与并行</title>
+    <link href="https://www.techstack.tech/post/164912916/"/>
+    <id>https://www.techstack.tech/post/164912916/</id>
+    <published>2022-04-05T03:25:31.000Z</published>
+    <updated>2022-04-09T11:05:15.871Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;并发问题应该算是最让程序员头疼的问题了，无论工作还是面试过程中一谈到并发问题就显得非常高深。随着互联网的普及造成的巨大的用户量，并发问题又无法避免。在我们学习并发编程之前首先要明白什么是编发，了解并发的概念是我们后续学习的基础。&lt;/p&gt;
+&lt;p&gt;谈到并发的概念不得不提的就是并
+        
+      
+    
+    </summary>
+    
+      <category term="并发编程" scheme="https://www.techstack.tech/m/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="Java" scheme="https://www.techstack.tech/tags/Java/"/>
+    
+      <category term="并发" scheme="https://www.techstack.tech/tags/%E5%B9%B6%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>并发理论基础：并发问题产生的三大根源</title>
+    <link href="https://www.techstack.tech/post/164912852/"/>
+    <id>https://www.techstack.tech/post/164912852/</id>
+    <published>2022-04-05T03:15:11.000Z</published>
+    <updated>2022-04-09T11:05:15.871Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在我们去解决并发问题之前首先要理解什么是并发问题，造成并发问题的根源什么，所有并发处理的工具只是针对这些根源问题的其中一种解决方案。所以我们在学习并发解决方案或者编写并发程序时，我们首先要深入理解并发问题的根源是什么。&lt;/p&gt;
+&lt;p&gt;或许我们都知道并发问题的三大源头：&lt;/p
+        
+      
+    
+    </summary>
+    
+      <category term="并发编程" scheme="https://www.techstack.tech/m/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="Java" scheme="https://www.techstack.tech/tags/Java/"/>
+    
+      <category term="并发" scheme="https://www.techstack.tech/tags/%E5%B9%B6%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>说一说我理解的Java</title>
+    <link href="https://www.techstack.tech/post/164885530/"/>
+    <id>https://www.techstack.tech/post/164885530/</id>
+    <published>2022-04-01T22:21:13.000Z</published>
+    <updated>2022-04-09T11:05:15.871Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;大四校招时第一次接触 Java，了解到 Java 或者说编程也是全靠培训机构，对 Java 的第一印象就是 &lt;code&gt;速成&lt;/code&gt; 、&lt;code&gt;高薪&lt;/code&gt;, 就业一年就能月薪一万。所以当时就在金钱的诱惑下来到了北京学习 Java
+        
+      
+    
+    </summary>
+    
+      <category term="基础知识" scheme="https://www.techstack.tech/m/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    
+    
+      <category term="Java" scheme="https://www.techstack.tech/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis入门-Redis概念和基础</title>
+    <link href="https://www.techstack.tech/post/164885535/"/>
+    <id>https://www.techstack.tech/post/164885535/</id>
+    <published>2022-04-01T13:42:39.000Z</published>
+    <updated>2022-04-09T11:05:15.877Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;Redis是一种支持key-value等多种数据结构的存储系统。可用于缓存，事件发布或订阅，高速队列等场景。支持网络，提供字符串，哈希，列表，队列，集合结构直接存取，基于内存，可持久化。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+      <category term="Redis" scheme="https://www.techstack.tech/m/Redis/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL数据类型</title>
+    <link href="https://www.techstack.tech/post/164885534/"/>
+    <id>https://www.techstack.tech/post/164885534/</id>
+    <published>2022-04-01T13:36:40.000Z</published>
+    <updated>2022-04-09T11:05:15.876Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;字段类型&quot;&gt;字段类型&lt;a class=&quot;&quot; href=&quot;#字段类型&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;整型&quot;&gt;整型&lt;a class=&quot;&quot; href=&quot;#整型&quot;&gt;&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;TINYINT, SMALLINT, MEDIUMINT, INT,
+        
+      
+    
+    </summary>
+    
+      <category term="MySQL" scheme="https://www.techstack.tech/m/MySQL/"/>
+    
+    
+      <category term="MySQL" scheme="https://www.techstack.tech/tags/MySQL/"/>
+    
+      <category term="数据库" scheme="https://www.techstack.tech/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>集合框架总览</title>
+    <link href="https://www.techstack.tech/post/164885512/"/>
+    <id>https://www.techstack.tech/post/164885512/</id>
+    <published>2022-04-01T12:45:16.000Z</published>
+    <updated>2022-04-09T11:05:15.872Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;知识体系结构&quot;&gt;知识体系结构&lt;a class=&quot;&quot; href=&quot;#知识体系结构&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;img src=
+        
+      
+    
+    </summary>
+    
+      <category term="集合框架" scheme="https://www.techstack.tech/m/%E9%9B%86%E5%90%88%E6%A1%86%E6%9E%B6/"/>
+    
+    
+      <category term="Java 集合" scheme="https://www.techstack.tech/tags/Java-%E9%9B%86%E5%90%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>概述</title>
+    <link href="https://www.techstack.tech/post/164885658/"/>
+    <id>https://www.techstack.tech/post/164885658/</id>
+    <published>2021-12-30T09:53:24.000Z</published>
+    <updated>2022-04-09T11:05:15.877Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;什么是数据结构&quot;&gt;什么是数据结构&lt;a class=&quot;&quot; href=&quot;#什么是数据结构&quot;&gt;&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id=&quot;数据&quot;&gt;数据&lt;a class=&quot;&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="数据结构教程" scheme="https://www.techstack.tech/m/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="数据结构" scheme="https://www.techstack.tech/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>八、指针</title>
+    <link href="https://www.techstack.tech/post/164885489/"/>
+    <id>https://www.techstack.tech/post/164885489/</id>
+    <published>2021-12-24T03:53:11.000Z</published>
+    <updated>2022-04-09T11:05:15.867Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;指针是 C 中最复杂的部分。&lt;/p&gt;
+&lt;p&gt;在这一节中，我们以最简单但又不模糊的方式介绍它们。&lt;/p&gt;
+&lt;p&gt;指针是某个内存块的地址，这个内存块包含一个变量。&lt;/p&gt;
+&lt;p&gt;像这样声明一个整数时：&lt;/p&gt;
+&lt;figure class=&quot;highlight
+        
+      
+    
+    </summary>
+    
+      <category term="C语言入门手册" scheme="https://www.techstack.tech/m/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E6%89%8B%E5%86%8C/"/>
+    
+    
+      <category term="C语言" scheme="https://www.techstack.tech/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>十、输入与输出</title>
+    <link href="https://www.techstack.tech/post/164031793/"/>
+    <id>https://www.techstack.tech/post/164031793/</id>
+    <published>2021-12-24T03:52:15.000Z</published>
+    <updated>2022-04-09T11:05:15.868Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;C 是一门小型语言，并且 C 的“内核”并不包含任何输入/输出（I/O）功能。&lt;/p&gt;
+&lt;p&gt;当然，这并不是 C 所独有的。语言内核与 I/O 无关是很常见的。&lt;/p&gt;
+&lt;p&gt;在 C 中，输入/输出由 C 的标准库通过一组定义在 &lt;code&gt;stdio.h&lt;/code&gt;
+        
+      
+    
+    </summary>
+    
+      <category term="C语言入门手册" scheme="https://www.techstack.tech/m/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E6%89%8B%E5%86%8C/"/>
+    
+    
+      <category term="C语言" scheme="https://www.techstack.tech/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>十一、变量作用域</title>
+    <link href="https://www.techstack.tech/post/164885498/"/>
+    <id>https://www.techstack.tech/post/164885498/</id>
+    <published>2021-12-24T03:52:15.000Z</published>
+    <updated>2022-04-09T11:05:15.868Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;当你在 C 程序中定义一个变量时，根据你声明它的位置，它会有一个不同的
+        
+      
+    
+    </summary>
+    
+      <category term="C语言入门手册" scheme="https://www.techstack.tech/m/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E6%89%8B%E5%86%8C/"/>
+    
+    
+      <category term="C语言" scheme="https://www.techstack.tech/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>十三、命令行参数</title>
+    <link href="https://www.techstack.tech/post/164885499/"/>
+    <id>https://www.techstack.tech/post/164885499/</id>
+    <published>2021-12-24T03:52:15.000Z</published>
+    <updated>2022-04-09T11:05:15.868Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在 C 程序中，你可能需要在命令启动时从命令行接收参数。&lt;/p&gt;
+&lt;p&gt;对于简单的需求而言，你只需要将 &lt;code&gt;main()&lt;/code&gt; 函数的签名从&lt;/p&gt;
+&lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td
+        
+      
+    
+    </summary>
+    
+      <category term="C语言入门手册" scheme="https://www.techstack.tech/m/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E6%89%8B%E5%86%8C/"/>
+    
+    
+      <category term="C语言" scheme="https://www.techstack.tech/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>十二、类型定义和结构体</title>
+    <link href="https://www.techstack.tech/post/164885500/"/>
+    <id>https://www.techstack.tech/post/164885500/</id>
+    <published>2021-12-24T03:52:15.000Z</published>
+    <updated>2022-04-09T11:05:15.868Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;C 中的 &lt;code&gt;typedef&lt;/code&gt; 关键字允许你定义新的类型。&lt;/p&gt;
+&lt;p&gt;我们可以从 C 内置的类型开始创建自己的类型，使用这个语法：&lt;/p&gt;
+&lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td
+        
+      
+    
+    </summary>
+    
+      <category term="C语言入门手册" scheme="https://www.techstack.tech/m/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E6%89%8B%E5%86%8C/"/>
+    
+    
+      <category term="C语言" scheme="https://www.techstack.tech/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>十五、预处理器</title>
+    <link href="https://www.techstack.tech/post/164885501/"/>
+    <id>https://www.techstack.tech/post/164885501/</id>
+    <published>2021-12-24T03:52:15.000Z</published>
+    <updated>2022-04-09T11:05:15.868Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;预处理器是一个工具，当我们用 C 编程时，它对我们有很大的帮助。它是 C 标准的一部分，就像语言本身、编译器和标准库一样。&lt;/p&gt;
+&lt;p&gt;它解析我们的程序，确保编译器在处理之前获得所有需要的东西。&lt;/p&gt;
+&lt;p&gt;在实践中，它是做什么的呢？&lt;/p&gt;
+&lt;p&gt;例如，它查找你使用
+        
+      
+    
+    </summary>
+    
+      <category term="C语言入门手册" scheme="https://www.techstack.tech/m/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E6%89%8B%E5%86%8C/"/>
+    
+    
+      <category term="C语言" scheme="https://www.techstack.tech/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>十四、头文件</title>
+    <link href="https://www.techstack.tech/post/164885502/"/>
+    <id>https://www.techstack.tech/post/164885502/</id>
+    <published>2021-12-24T03:52:15.000Z</published>
+    <updated>2022-04-09T11:05:15.868Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;简单的程序可以直接放在单个文件中。但是当你的程序变大，将它放在单个文件中就不可能了。&lt;/p&gt;
+&lt;p&gt;你可以将程序一些部分移动到一个单独的文件中，然后创建一个 &lt;strong&gt;头文件&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;头文件看起来就像普通的 C 文件一样，但是它是以
+        
+      
+    
+    </summary>
+    
+      <category term="C语言入门手册" scheme="https://www.techstack.tech/m/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E6%89%8B%E5%86%8C/"/>
+    
+    
+      <category term="C语言" scheme="https://www.techstack.tech/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>九、函数</title>
+    <link href="https://www.techstack.tech/post/164885483/"/>
+    <id>https://www.techstack.tech/post/164885483/</id>
+    <published>2021-12-24T03:52:13.000Z</published>
+    <updated>2022-04-09T11:05:15.867Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;我们通过函数将代码组织成子例程，这样就可以：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;给它一个名字&lt;/li&gt;
+&lt;li&gt;在需要它们的时候进行调用&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;从你的第一个程序（“Hello, World!”）开始，你就在使用 C 函数了：&lt;/p&gt;
+&lt;figure
+        
+      
+    
+    </summary>
+    
+      <category term="C语言入门手册" scheme="https://www.techstack.tech/m/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E6%89%8B%E5%86%8C/"/>
+    
+    
+      <category term="C语言" scheme="https://www.techstack.tech/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>七、字符串</title>
+    <link href="https://www.techstack.tech/post/164885418/"/>
+    <id>https://www.techstack.tech/post/164885418/</id>
+    <published>2021-12-24T03:52:11.000Z</published>
+    <updated>2022-04-09T11:05:15.867Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在 C 中，字符串是一种特殊的数组：字符串是由 &lt;code&gt;char&lt;/code&gt; 值组成的数组：&lt;/p&gt;
+&lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span
+        
+      
+    
+    </summary>
+    
+      <category term="C语言入门手册" scheme="https://www.techstack.tech/m/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E6%89%8B%E5%86%8C/"/>
+    
+    
+      <category term="C语言" scheme="https://www.techstack.tech/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+</feed>
