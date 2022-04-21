@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.techstack.tech/"/>
-  <updated>2022-04-14T17:21:53.449Z</updated>
+  <updated>2022-04-21T08:25:44.553Z</updated>
   <id>https://www.techstack.tech/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>并发理论基础：Java 内存模型JMM</title>
-    <link href="https://www.techstack.tech/post/164995635/"/>
-    <id>https://www.techstack.tech/post/164995635/</id>
-    <published>2022-04-14T17:12:29.000Z</published>
-    <updated>2022-04-14T17:21:53.449Z</updated>
+    <title>深入理解Volatile</title>
+    <link href="https://www.techstack.tech/post/165052629/"/>
+    <id>https://www.techstack.tech/post/165052629/</id>
+    <published>2022-04-21T07:31:28.000Z</published>
+    <updated>2022-04-21T08:25:44.553Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,64 @@
       
         
         
-          &lt;p&gt;在&lt;a
+          &lt;p&gt;在&lt;a href=&quot;/post/164995635/&quot; title=&quot;并发理论基础：Java 内存模型JMM&quot;&gt;并发理论基础：Java 内存模型JMM&lt;/a&gt;一文中讲到 JMM 模型是 Java 抽象出来的一个概念，用来屏蔽不同硬件和操作系统对于内存访问的差异，让
+        
+      
+    
+    </summary>
+    
+      <category term="并发编程" scheme="https://www.techstack.tech/m/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="Java" scheme="https://www.techstack.tech/tags/Java/"/>
+    
+      <category term="并发" scheme="https://www.techstack.tech/tags/%E5%B9%B6%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>并发理论接触：内存屏障</title>
+    <link href="https://www.techstack.tech/post/165052618/"/>
+    <id>https://www.techstack.tech/post/165052618/</id>
+    <published>2022-04-21T07:29:30.000Z</published>
+    <updated>2022-04-21T08:43:40.457Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;为了提高 CPU 的运行效率，现代计算机做了两个方面的优化。一是引入的缓存，二是增加了 CPU 乱序执行指令集。&lt;/p&gt;
+&lt;p&gt;引入缓存后，就出现了缓存一致性问题。为了解决缓存一致性问题，引入了 MESI 缓存一致性协议。同时为了优化 M -&amp;gt; I 状态的 CPU
+        
+      
+    
+    </summary>
+    
+      <category term="并发编程" scheme="https://www.techstack.tech/m/%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="Java" scheme="https://www.techstack.tech/tags/Java/"/>
+    
+      <category term="并发" scheme="https://www.techstack.tech/tags/%E5%B9%B6%E5%8F%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>并发理论基础：Java 内存模型JMM</title>
+    <link href="https://www.techstack.tech/post/164995635/"/>
+    <id>https://www.techstack.tech/post/164995635/</id>
+    <published>2022-04-14T17:12:29.000Z</published>
+    <updated>2022-04-21T08:48:07.092Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;在&lt;a href=&quot;/post/164926797/&quot; title=&quot;并发理论基础：缓存可见性、MESI&quot;&gt;并发理论基础：缓存可见性、MESI&lt;/a&gt;一文中分析了缓存可见性导致的并发问题。为了解决缓存可见性问题所以有了缓存一致性协议
         
       
     
@@ -49,7 +106,7 @@
     <link href="https://www.techstack.tech/post/164942290/"/>
     <id>https://www.techstack.tech/post/164942290/</id>
     <published>2022-04-08T13:01:28.000Z</published>
-    <updated>2022-04-14T17:10:35.797Z</updated>
+    <updated>2022-04-21T08:49:37.877Z</updated>
     
     <summary type="html">
     
@@ -73,11 +130,11 @@
   </entry>
   
   <entry>
-    <title>并发理论基础：缓存可见性、MESI、内存屏障</title>
+    <title>并发理论基础：缓存可见性、MESI</title>
     <link href="https://www.techstack.tech/post/164926797/"/>
     <id>https://www.techstack.tech/post/164926797/</id>
     <published>2022-04-06T17:59:31.000Z</published>
-    <updated>2022-04-14T17:26:53.259Z</updated>
+    <updated>2022-04-21T08:51:08.347Z</updated>
     
     <summary type="html">
     
@@ -85,7 +142,7 @@
       
         
         
-          &lt;p&gt;从“&lt;strong&gt;&lt;a
+          &lt;p&gt;从“&lt;strong&gt;&lt;a href=&quot;/post/164912852/&quot; title=&quot;并发理论基础：并发问题产生的三大根源&quot;&gt;并发理论基础：并发问题产生的三大根源&lt;/a&gt;&lt;/strong&gt;”
         
       
     
@@ -105,7 +162,7 @@
     <link href="https://www.techstack.tech/post/164913260/"/>
     <id>https://www.techstack.tech/post/164913260/</id>
     <published>2022-04-05T03:25:31.000Z</published>
-    <updated>2022-04-09T11:05:15.871Z</updated>
+    <updated>2022-04-21T08:08:26.731Z</updated>
     
     <summary type="html">
     
@@ -134,7 +191,7 @@
     <link href="https://www.techstack.tech/post/164912916/"/>
     <id>https://www.techstack.tech/post/164912916/</id>
     <published>2022-04-05T03:25:31.000Z</published>
-    <updated>2022-04-09T11:05:15.871Z</updated>
+    <updated>2022-04-21T08:43:40.454Z</updated>
     
     <summary type="html">
     
@@ -163,7 +220,7 @@
     <link href="https://www.techstack.tech/post/164912852/"/>
     <id>https://www.techstack.tech/post/164912852/</id>
     <published>2022-04-05T03:15:11.000Z</published>
-    <updated>2022-04-09T11:05:15.871Z</updated>
+    <updated>2022-04-21T08:08:26.732Z</updated>
     
     <summary type="html">
     
@@ -192,7 +249,7 @@
     <link href="https://www.techstack.tech/post/164885530/"/>
     <id>https://www.techstack.tech/post/164885530/</id>
     <published>2022-04-01T22:21:13.000Z</published>
-    <updated>2022-04-09T11:05:15.871Z</updated>
+    <updated>2022-04-21T08:08:26.730Z</updated>
     
     <summary type="html">
     
@@ -218,7 +275,7 @@
     <link href="https://www.techstack.tech/post/164885535/"/>
     <id>https://www.techstack.tech/post/164885535/</id>
     <published>2022-04-01T13:42:39.000Z</published>
-    <updated>2022-04-09T11:05:15.877Z</updated>
+    <updated>2022-04-21T08:08:26.737Z</updated>
     
     <summary type="html">
     
@@ -245,7 +302,7 @@
     <link href="https://www.techstack.tech/post/164885534/"/>
     <id>https://www.techstack.tech/post/164885534/</id>
     <published>2022-04-01T13:36:40.000Z</published>
-    <updated>2022-04-09T11:05:15.876Z</updated>
+    <updated>2022-04-21T08:08:26.737Z</updated>
     
     <summary type="html">
     
@@ -275,7 +332,7 @@
     <link href="https://www.techstack.tech/post/164885512/"/>
     <id>https://www.techstack.tech/post/164885512/</id>
     <published>2022-04-01T12:45:16.000Z</published>
-    <updated>2022-04-09T11:05:15.872Z</updated>
+    <updated>2022-04-21T08:08:26.733Z</updated>
     
     <summary type="html">
     
@@ -302,7 +359,7 @@
     <link href="https://www.techstack.tech/post/164885658/"/>
     <id>https://www.techstack.tech/post/164885658/</id>
     <published>2021-12-30T09:53:24.000Z</published>
-    <updated>2022-04-09T11:05:15.877Z</updated>
+    <updated>2022-04-21T08:08:26.738Z</updated>
     
     <summary type="html">
     
@@ -329,7 +386,7 @@
     <link href="https://www.techstack.tech/post/164885489/"/>
     <id>https://www.techstack.tech/post/164885489/</id>
     <published>2021-12-24T03:53:11.000Z</published>
-    <updated>2022-04-09T11:05:15.867Z</updated>
+    <updated>2022-04-21T08:08:26.724Z</updated>
     
     <summary type="html">
     
@@ -359,7 +416,7 @@
     <link href="https://www.techstack.tech/post/164031793/"/>
     <id>https://www.techstack.tech/post/164031793/</id>
     <published>2021-12-24T03:52:15.000Z</published>
-    <updated>2022-04-09T11:05:15.868Z</updated>
+    <updated>2022-04-21T08:08:26.725Z</updated>
     
     <summary type="html">
     
@@ -387,7 +444,7 @@
     <link href="https://www.techstack.tech/post/164885498/"/>
     <id>https://www.techstack.tech/post/164885498/</id>
     <published>2021-12-24T03:52:15.000Z</published>
-    <updated>2022-04-09T11:05:15.868Z</updated>
+    <updated>2022-04-21T08:08:26.725Z</updated>
     
     <summary type="html">
     
@@ -413,7 +470,7 @@
     <link href="https://www.techstack.tech/post/164885499/"/>
     <id>https://www.techstack.tech/post/164885499/</id>
     <published>2021-12-24T03:52:15.000Z</published>
-    <updated>2022-04-09T11:05:15.868Z</updated>
+    <updated>2022-04-21T08:08:26.725Z</updated>
     
     <summary type="html">
     
@@ -441,7 +498,7 @@
     <link href="https://www.techstack.tech/post/164885500/"/>
     <id>https://www.techstack.tech/post/164885500/</id>
     <published>2021-12-24T03:52:15.000Z</published>
-    <updated>2022-04-09T11:05:15.868Z</updated>
+    <updated>2022-04-21T08:08:26.726Z</updated>
     
     <summary type="html">
     
@@ -469,7 +526,7 @@
     <link href="https://www.techstack.tech/post/164885501/"/>
     <id>https://www.techstack.tech/post/164885501/</id>
     <published>2021-12-24T03:52:15.000Z</published>
-    <updated>2022-04-09T11:05:15.868Z</updated>
+    <updated>2022-04-21T08:08:26.726Z</updated>
     
     <summary type="html">
     
@@ -498,7 +555,7 @@
     <link href="https://www.techstack.tech/post/164885502/"/>
     <id>https://www.techstack.tech/post/164885502/</id>
     <published>2021-12-24T03:52:15.000Z</published>
-    <updated>2022-04-09T11:05:15.868Z</updated>
+    <updated>2022-04-21T08:08:26.726Z</updated>
     
     <summary type="html">
     
@@ -509,65 +566,6 @@
           &lt;p&gt;简单的程序可以直接放在单个文件中。但是当你的程序变大，将它放在单个文件中就不可能了。&lt;/p&gt;
 &lt;p&gt;你可以将程序一些部分移动到一个单独的文件中，然后创建一个 &lt;strong&gt;头文件&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;头文件看起来就像普通的 C 文件一样，但是它是以
-        
-      
-    
-    </summary>
-    
-      <category term="C语言入门手册" scheme="https://www.techstack.tech/m/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E6%89%8B%E5%86%8C/"/>
-    
-    
-      <category term="C语言" scheme="https://www.techstack.tech/tags/C%E8%AF%AD%E8%A8%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>九、函数</title>
-    <link href="https://www.techstack.tech/post/164885483/"/>
-    <id>https://www.techstack.tech/post/164885483/</id>
-    <published>2021-12-24T03:52:13.000Z</published>
-    <updated>2022-04-09T11:05:15.867Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;我们通过函数将代码组织成子例程，这样就可以：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;给它一个名字&lt;/li&gt;
-&lt;li&gt;在需要它们的时候进行调用&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;从你的第一个程序（“Hello, World!”）开始，你就在使用 C 函数了：&lt;/p&gt;
-&lt;figure
-        
-      
-    
-    </summary>
-    
-      <category term="C语言入门手册" scheme="https://www.techstack.tech/m/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8%E6%89%8B%E5%86%8C/"/>
-    
-    
-      <category term="C语言" scheme="https://www.techstack.tech/tags/C%E8%AF%AD%E8%A8%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>七、字符串</title>
-    <link href="https://www.techstack.tech/post/164885418/"/>
-    <id>https://www.techstack.tech/post/164885418/</id>
-    <published>2021-12-24T03:52:11.000Z</published>
-    <updated>2022-04-09T11:05:15.867Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;在 C 中，字符串是一种特殊的数组：字符串是由 &lt;code&gt;char&lt;/code&gt; 值组成的数组：&lt;/p&gt;
-&lt;figure class=&quot;highlight c&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span
         
       
     
